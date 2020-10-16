@@ -1,15 +1,17 @@
 import React from "react";
 import { Grommet, Box, Heading, Paragraph } from "grommet";
-import { grommet, dark } from "grommet/themes";
+
 import Nav from "./components/Nav";
+import OrderBookContainer from "./components/OrderBook";
+import { cryptoDanceThemeLight, cryptoDanceThemeDark } from "./theme";
 
 const THEMES = {
-  grommet,
-  dark,
+  cryptoDanceThemeLight,
+  cryptoDanceThemeDark,
 };
 
 function App() {
-  const [themeName, setThemeName] = React.useState("grommet");
+  const [themeName, setThemeName] = React.useState("cryptoDanceThemeDark");
 
   return (
     <Grommet theme={THEMES[themeName || "grommet"]}>
@@ -25,6 +27,9 @@ function App() {
             A combined order book that takes the full order books from Bittrex
             and Poloniex
           </Paragraph>
+        </Box>
+        <Box align="center">
+          <OrderBookContainer />
         </Box>
       </Box>
     </Grommet>
