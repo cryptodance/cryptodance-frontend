@@ -1,0 +1,8315 @@
+{
+  "bids": [
+    {
+      "rate": 0.03311289,
+      "quantity": 30.17431008,
+      "total": 0.9992,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.9992
+    },
+    {
+      "rate": 0.03311288,
+      "quantity": 2.861,
+      "total": 0.0947,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.0939
+    },
+    {
+      "rate": 0.03311284,
+      "quantity": 2,
+      "total": 0.0662,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.1601
+    },
+    {
+      "rate": 0.03311283,
+      "quantity": 12.80107914,
+      "total": 0.4239,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.584
+    },
+    {
+      "rate": 0.03311282,
+      "quantity": 5.507,
+      "total": 0.1824,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.7664
+    },
+    {
+      "rate": 0.03311109,
+      "quantity": 3.75,
+      "total": 0.1242,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.8906
+    },
+    {
+      "rate": 0.03310796,
+      "quantity": 3.90892257,
+      "total": 0.1294,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.02
+    },
+    {
+      "rate": 0.03310399,
+      "quantity": 0.27007547,
+      "total": 0.0089,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.0289
+    },
+    {
+      "rate": 0.03309874,
+      "quantity": 4.38162594,
+      "total": 0.145,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.1739
+    },
+    {
+      "rate": 0.03309873,
+      "quantity": 2.65648348,
+      "total": 0.0879,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.2618
+    },
+    {
+      "rate": 0.03309735,
+      "quantity": 1.69836484,
+      "total": 0.0562,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.318
+    },
+    {
+      "rate": 0.03309734,
+      "quantity": 4.8,
+      "total": 0.1589,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.4769
+    },
+    {
+      "rate": 0.03309733,
+      "quantity": 4.52850099,
+      "total": 0.1499,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.6268
+    },
+    {
+      "rate": 0.03309732,
+      "quantity": 2.30737181,
+      "total": 0.0764,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.7032
+    },
+    {
+      "rate": 0.0330973,
+      "quantity": 0.59047144,
+      "total": 0.0195,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.7227
+    },
+    {
+      "rate": 0.03309479,
+      "quantity": 5,
+      "total": 0.1655,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.8882
+    },
+    {
+      "rate": 0.03309236,
+      "quantity": 3.01868566,
+      "total": 0.0999,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.9881
+    },
+    {
+      "rate": 0.03308763,
+      "quantity": 6.25,
+      "total": 0.2068,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.1949
+    },
+    {
+      "rate": 0.03308126,
+      "quantity": 3.01939205,
+      "total": 0.0999,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.2948
+    },
+    {
+      "rate": 0.03307433,
+      "quantity": 19.35350638,
+      "total": 0.6401,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.9349
+    },
+    {
+      "rate": 0.03307431,
+      "quantity": 3.01,
+      "total": 0.0996,
+      "exchanges": ["bittrex"],
+      "aggtotal": 4.0345
+    },
+    {
+      "rate": 0.03306555,
+      "quantity": 7.99068907,
+      "total": 0.2642,
+      "exchanges": ["bittrex"],
+      "aggtotal": 4.2987
+    },
+    {
+      "rate": 0.03306013,
+      "quantity": 0.1970902,
+      "total": 0.0065,
+      "exchanges": ["bittrex"],
+      "aggtotal": 4.3052
+    },
+    {
+      "rate": 0.03304976,
+      "quantity": 5.3422082,
+      "total": 0.1766,
+      "exchanges": ["bittrex"],
+      "aggtotal": 4.4818
+    },
+    {
+      "rate": 0.03304974,
+      "quantity": 9.05,
+      "total": 0.2991,
+      "exchanges": ["bittrex"],
+      "aggtotal": 4.7809
+    },
+    {
+      "rate": 0.03303248,
+      "quantity": 9.6,
+      "total": 0.3171,
+      "exchanges": ["bittrex"],
+      "aggtotal": 5.098
+    },
+    {
+      "rate": 0.03303217,
+      "quantity": 29.75,
+      "total": 0.9827,
+      "exchanges": ["bittrex"],
+      "aggtotal": 6.0807
+    },
+    {
+      "rate": 0.03302581,
+      "quantity": 9.4,
+      "total": 0.3104,
+      "exchanges": ["bittrex"],
+      "aggtotal": 6.3911
+    },
+    {
+      "rate": 0.03302051,
+      "quantity": 30,
+      "total": 0.9906,
+      "exchanges": ["bittrex"],
+      "aggtotal": 7.3817
+    },
+    {
+      "rate": 0.0330205,
+      "quantity": 0.26348951,
+      "total": 0.0087,
+      "exchanges": ["bittrex"],
+      "aggtotal": 7.3904
+    },
+    {
+      "rate": 0.03300961,
+      "quantity": 10.48618188,
+      "total": 0.3461,
+      "exchanges": ["bittrex"],
+      "aggtotal": 7.7365
+    },
+    {
+      "rate": 0.03300789,
+      "quantity": 0.03029578,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 7.7375
+    },
+    {
+      "rate": 0.033,
+      "quantity": 8.55295744,
+      "total": 0.2823,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 8.0198
+    },
+    {
+      "rate": 0.03298931,
+      "quantity": 0.83333333,
+      "total": 0.0275,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.0473
+    },
+    {
+      "rate": 0.03298866,
+      "quantity": 9.19123225,
+      "total": 0.3032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.3505
+    },
+    {
+      "rate": 0.03298031,
+      "quantity": 5.99729394,
+      "total": 0.1978,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.5483
+    },
+    {
+      "rate": 0.03297742,
+      "quantity": 0.1,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.5516
+    },
+    {
+      "rate": 0.03297702,
+      "quantity": 0.03823244,
+      "total": 0.0013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.5529
+    },
+    {
+      "rate": 0.03297122,
+      "quantity": 0.20602868,
+      "total": 0.0068,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.5597
+    },
+    {
+      "rate": 0.03296876,
+      "quantity": 0.25665122,
+      "total": 0.0085,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.5682
+    },
+    {
+      "rate": 0.03294859,
+      "quantity": 0.25,
+      "total": 0.0082,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.5764
+    },
+    {
+      "rate": 0.03293994,
+      "quantity": 0.173,
+      "total": 0.0057,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.5821
+    },
+    {
+      "rate": 0.03293931,
+      "quantity": 0.83333333,
+      "total": 0.0274,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.6095
+    },
+    {
+      "rate": 0.03293326,
+      "quantity": 0.02611757,
+      "total": 0.0009,
+      "exchanges": ["bittrex"],
+      "aggtotal": 8.6104
+    },
+    {
+      "rate": 0.03293277,
+      "quantity": 311.2,
+      "total": 10.2487,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.8591
+    },
+    {
+      "rate": 0.0329,
+      "quantity": 0.12585691,
+      "total": 0.0041,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.8632
+    },
+    {
+      "rate": 0.03288051,
+      "quantity": 0.60342747,
+      "total": 0.0198,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.883
+    },
+    {
+      "rate": 0.03287755,
+      "quantity": 0.54102219,
+      "total": 0.0178,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.9008
+    },
+    {
+      "rate": 0.03287,
+      "quantity": 0.1,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.9041
+    },
+    {
+      "rate": 0.0328421,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.9053
+    },
+    {
+      "rate": 0.03284003,
+      "quantity": 1.17771307,
+      "total": 0.0387,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.944
+    },
+    {
+      "rate": 0.03283885,
+      "quantity": 0.16109776,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.9493
+    },
+    {
+      "rate": 0.03282805,
+      "quantity": 0.03046175,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.9503
+    },
+    {
+      "rate": 0.03281006,
+      "quantity": 6.01178328,
+      "total": 0.1972,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.1475
+    },
+    {
+      "rate": 0.03281,
+      "quantity": 0.1,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.1508
+    },
+    {
+      "rate": 0.03280001,
+      "quantity": 3.46183973,
+      "total": 0.1135,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.2643
+    },
+    {
+      "rate": 0.0328,
+      "quantity": 0.38374654,
+      "total": 0.0126,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 19.2769
+    },
+    {
+      "rate": 0.03279166,
+      "quantity": 2.24313095,
+      "total": 0.0736,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.3505
+    },
+    {
+      "rate": 0.03279165,
+      "quantity": 3.1,
+      "total": 0.1017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.4522
+    },
+    {
+      "rate": 0.03277777,
+      "quantity": 0.01538462,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.4527
+    },
+    {
+      "rate": 0.03277441,
+      "quantity": 0.01837878,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.4533
+    },
+    {
+      "rate": 0.03274469,
+      "quantity": 0.1005,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.4566
+    },
+    {
+      "rate": 0.0327416,
+      "quantity": 0.13469041,
+      "total": 0.0044,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.461
+    },
+    {
+      "rate": 0.03274,
+      "quantity": 0.52081725,
+      "total": 0.0171,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.4781
+    },
+    {
+      "rate": 0.03273651,
+      "quantity": 10.2,
+      "total": 0.3339,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.812
+    },
+    {
+      "rate": 0.03273154,
+      "quantity": 0.07992454,
+      "total": 0.0026,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.8146
+    },
+    {
+      "rate": 0.0327214,
+      "quantity": 0.02611757,
+      "total": 0.0009,
+      "exchanges": ["bittrex"],
+      "aggtotal": 19.8155
+    },
+    {
+      "rate": 0.0327,
+      "quantity": 8.88505902,
+      "total": 0.2906,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 20.1061
+    },
+    {
+      "rate": 0.03268921,
+      "quantity": 150.53,
+      "total": 4.9207,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.0268
+    },
+    {
+      "rate": 0.03265283,
+      "quantity": 2.3485,
+      "total": 0.0767,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.1035
+    },
+    {
+      "rate": 0.03263471,
+      "quantity": 0.05752776,
+      "total": 0.0019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.1054
+    },
+    {
+      "rate": 0.03262896,
+      "quantity": 0.16856191,
+      "total": 0.0055,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.1109
+    },
+    {
+      "rate": 0.0326,
+      "quantity": 0.23994984,
+      "total": 0.0078,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 25.1187
+    },
+    {
+      "rate": 0.03257894,
+      "quantity": 0.03522207,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.1198
+    },
+    {
+      "rate": 0.032575,
+      "quantity": 4.17,
+      "total": 0.1358,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.2556
+    },
+    {
+      "rate": 0.03256745,
+      "quantity": 0.16244027,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.2609
+    },
+    {
+      "rate": 0.03253397,
+      "quantity": 0.01837878,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.2615
+    },
+    {
+      "rate": 0.032514,
+      "quantity": 1,
+      "total": 0.0325,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.294
+    },
+    {
+      "rate": 0.03251,
+      "quantity": 0.10185883,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.2973
+    },
+    {
+      "rate": 0.03250954,
+      "quantity": 0.02611757,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.2981
+    },
+    {
+      "rate": 0.0325,
+      "quantity": 3.15929031,
+      "total": 0.1027,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 25.4008
+    },
+    {
+      "rate": 0.03249484,
+      "quantity": 0.1,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.404
+    },
+    {
+      "rate": 0.03249009,
+      "quantity": 0.23776112,
+      "total": 0.0077,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4117
+    },
+    {
+      "rate": 0.03249,
+      "quantity": 0.1,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4149
+    },
+    {
+      "rate": 0.03247296,
+      "quantity": 0.01918119,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4155
+    },
+    {
+      "rate": 0.03243386,
+      "quantity": 117.91,
+      "total": 3.8243,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.2398
+    },
+    {
+      "rate": 0.03243298,
+      "quantity": 0.075,
+      "total": 0.0024,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.2422
+    },
+    {
+      "rate": 0.03243,
+      "quantity": 0.03077409,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.2432
+    },
+    {
+      "rate": 0.03242906,
+      "quantity": 0.1,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.2464
+    },
+    {
+      "rate": 0.03241419,
+      "quantity": 0.14285319,
+      "total": 0.0046,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.251
+    },
+    {
+      "rate": 0.0324,
+      "quantity": 7.14074004,
+      "total": 0.2314,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 29.4824
+    },
+    {
+      "rate": 0.03239985,
+      "quantity": 0.2462955,
+      "total": 0.008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.4904
+    },
+    {
+      "rate": 0.03231578,
+      "quantity": 0.03522207,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.4915
+    },
+    {
+      "rate": 0.03230001,
+      "quantity": 0.03715169,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.4927
+    },
+    {
+      "rate": 0.0323,
+      "quantity": 0.09025067,
+      "total": 0.0029,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 29.4956
+    },
+    {
+      "rate": 0.03229829,
+      "quantity": 0.16379397,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.5009
+    },
+    {
+      "rate": 0.03229768,
+      "quantity": 0.02611757,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.5017
+    },
+    {
+      "rate": 0.03229352,
+      "quantity": 0.01837878,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.5023
+    },
+    {
+      "rate": 0.03225613,
+      "quantity": 0.18881232,
+      "total": 0.0061,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.5084
+    },
+    {
+      "rate": 0.0322,
+      "quantity": 0.06463648,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.5105
+    },
+    {
+      "rate": 0.03218393,
+      "quantity": 88.93,
+      "total": 2.8621,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.3726
+    },
+    {
+      "rate": 0.03215848,
+      "quantity": 1.21469943,
+      "total": 0.0391,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4117
+    },
+    {
+      "rate": 0.03213831,
+      "quantity": 0.06223102,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4137
+    },
+    {
+      "rate": 0.03210537,
+      "quantity": 0.075,
+      "total": 0.0024,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4161
+    },
+    {
+      "rate": 0.0321,
+      "quantity": 0.15221043,
+      "total": 0.0049,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.421
+    },
+    {
+      "rate": 0.03209004,
+      "quantity": 0.15151085,
+      "total": 0.0049,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4259
+    },
+    {
+      "rate": 0.03208582,
+      "quantity": 0.02611757,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4267
+    },
+    {
+      "rate": 0.03205552,
+      "quantity": 0.13174176,
+      "total": 0.0042,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4309
+    },
+    {
+      "rate": 0.03205308,
+      "quantity": 0.01837878,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4315
+    },
+    {
+      "rate": 0.03205263,
+      "quantity": 0.03522207,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4326
+    },
+    {
+      "rate": 0.03203135,
+      "quantity": 0.16515899,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.4379
+    },
+    {
+      "rate": 0.0320209,
+      "quantity": 1.22,
+      "total": 0.0391,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.477
+    },
+    {
+      "rate": 0.032,
+      "quantity": 0.85580808,
+      "total": 0.0274,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.5044
+    },
+    {
+      "rate": 0.03196821,
+      "quantity": 0.13028578,
+      "total": 0.0042,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.5086
+    },
+    {
+      "rate": 0.03196503,
+      "quantity": 1.89269341,
+      "total": 0.0605,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.5691
+    },
+    {
+      "rate": 0.03194101,
+      "quantity": 0.1,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.5723
+    },
+    {
+      "rate": 0.03190532,
+      "quantity": 29.9,
+      "total": 0.954,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.5263
+    },
+    {
+      "rate": 0.0319,
+      "quantity": 1.35581158,
+      "total": 0.0433,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.5696
+    },
+    {
+      "rate": 0.03189742,
+      "quantity": 0.01741526,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.5702
+    },
+    {
+      "rate": 0.0318948,
+      "quantity": 0.86835559,
+      "total": 0.0277,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.5979
+    },
+    {
+      "rate": 0.03187396,
+      "quantity": 0.02611757,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.5987
+    },
+    {
+      "rate": 0.03182422,
+      "quantity": 0.05301608,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6004
+    },
+    {
+      "rate": 0.03181264,
+      "quantity": 0.01837878,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.601
+    },
+    {
+      "rate": 0.0318,
+      "quantity": 0.08171228,
+      "total": 0.0026,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6036
+    },
+    {
+      "rate": 0.0317921,
+      "quantity": 0.05389273,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6053
+    },
+    {
+      "rate": 0.03178947,
+      "quantity": 0.03522207,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6064
+    },
+    {
+      "rate": 0.03178,
+      "quantity": 0.1,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6096
+    },
+    {
+      "rate": 0.03176914,
+      "quantity": 0.16069303,
+      "total": 0.0051,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6147
+    },
+    {
+      "rate": 0.03176662,
+      "quantity": 0.16653535,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.62
+    },
+    {
+      "rate": 0.03176334,
+      "quantity": 2.5971746,
+      "total": 0.0825,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7025
+    },
+    {
+      "rate": 0.03170979,
+      "quantity": 0.36571607,
+      "total": 0.0116,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7141
+    },
+    {
+      "rate": 0.0317,
+      "quantity": 0.17129939,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7195
+    },
+    {
+      "rate": 0.03169999,
+      "quantity": 3,
+      "total": 0.0951,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.8146
+    },
+    {
+      "rate": 0.03168913,
+      "quantity": 1,
+      "total": 0.0317,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.8463
+    },
+    {
+      "rate": 0.03166904,
+      "quantity": 0.13028578,
+      "total": 0.0041,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.8504
+    },
+    {
+      "rate": 0.0316629,
+      "quantity": 0.05575376,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.8522
+    },
+    {
+      "rate": 0.0316621,
+      "quantity": 0.02611757,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.853
+    },
+    {
+      "rate": 0.03161802,
+      "quantity": 30.38,
+      "total": 0.9606,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8136
+    },
+    {
+      "rate": 0.03161673,
+      "quantity": 0.03589813,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8147
+    },
+    {
+      "rate": 0.0316,
+      "quantity": 0.356828,
+      "total": 0.0113,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.826
+    },
+    {
+      "rate": 0.0315722,
+      "quantity": 0.01837878,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8266
+    },
+    {
+      "rate": 0.03155585,
+      "quantity": 0.05,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8282
+    },
+    {
+      "rate": 0.03155229,
+      "quantity": 0.036,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8293
+    },
+    {
+      "rate": 0.03152631,
+      "quantity": 0.03522207,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8304
+    },
+    {
+      "rate": 0.03150408,
+      "quantity": 0.16792318,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8357
+    },
+    {
+      "rate": 0.0315,
+      "quantity": 1.1347331,
+      "total": 0.0357,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8714
+    },
+    {
+      "rate": 0.03149153,
+      "quantity": 0.30634308,
+      "total": 0.0096,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.881
+    },
+    {
+      "rate": 0.03147056,
+      "quantity": 3.07006034,
+      "total": 0.0966,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.9776
+    },
+    {
+      "rate": 0.03145808,
+      "quantity": 0.13464146,
+      "total": 0.0042,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.9818
+    },
+    {
+      "rate": 0.03145145,
+      "quantity": 0.1704319,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.9872
+    },
+    {
+      "rate": 0.0314,
+      "quantity": 0.5454737,
+      "total": 0.0171,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.0043
+    },
+    {
+      "rate": 0.03137362,
+      "quantity": 2.11487799,
+      "total": 0.0664,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.0707
+    },
+    {
+      "rate": 0.03136843,
+      "quantity": 0.01770889,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.0713
+    },
+    {
+      "rate": 0.0313298,
+      "quantity": 1.28888307,
+      "total": 0.0404,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1117
+    },
+    {
+      "rate": 0.0313172,
+      "quantity": 0.06995751,
+      "total": 0.0022,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1139
+    },
+    {
+      "rate": 0.03130665,
+      "quantity": 1,
+      "total": 0.0313,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1452
+    },
+    {
+      "rate": 0.03130103,
+      "quantity": 0.05908722,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.147
+    },
+    {
+      "rate": 0.0313,
+      "quantity": 0.28202608,
+      "total": 0.0088,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1558
+    },
+    {
+      "rate": 0.03126315,
+      "quantity": 2.96476999,
+      "total": 0.0927,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.2485
+    },
+    {
+      "rate": 0.03126162,
+      "quantity": 0.01615399,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.249
+    },
+    {
+      "rate": 0.0312521,
+      "quantity": 0.1025,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.2522
+    },
+    {
+      "rate": 0.03125,
+      "quantity": 0.03193612,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.2532
+    },
+    {
+      "rate": 0.03124799,
+      "quantity": 0.80157561,
+      "total": 0.025,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.2782
+    },
+    {
+      "rate": 0.03124371,
+      "quantity": 0.16932257,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.2835
+    },
+    {
+      "rate": 0.03121049,
+      "quantity": 2.98475092,
+      "total": 0.0932,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.3767
+    },
+    {
+      "rate": 0.0312,
+      "quantity": 11.27326762,
+      "total": 0.3517,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.7284
+    },
+    {
+      "rate": 0.03112275,
+      "quantity": 0.64133406,
+      "total": 0.02,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.7484
+    },
+    {
+      "rate": 0.0311,
+      "quantity": 0.30367136,
+      "total": 0.0094,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.7578
+    },
+    {
+      "rate": 0.03108789,
+      "quantity": 36,
+      "total": 1.1192,
+      "exchanges": ["bittrex"],
+      "aggtotal": 36.877
+    },
+    {
+      "rate": 0.0310173,
+      "quantity": 0.06004375,
+      "total": 0.0019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 36.8789
+    },
+    {
+      "rate": 0.03100463,
+      "quantity": 0.80431535,
+      "total": 0.0249,
+      "exchanges": ["bittrex"],
+      "aggtotal": 36.9038
+    },
+    {
+      "rate": 0.03100031,
+      "quantity": 0.025,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 36.9046
+    },
+    {
+      "rate": 0.031,
+      "quantity": 13.83348052,
+      "total": 0.4288,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.3334
+    },
+    {
+      "rate": 0.03098549,
+      "quantity": 0.17073363,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.3387
+    },
+    {
+      "rate": 0.03095386,
+      "quantity": 0.03230614,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.3397
+    },
+    {
+      "rate": 0.03091097,
+      "quantity": 0.02413804,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.3404
+    },
+    {
+      "rate": 0.0309,
+      "quantity": 0.43871186,
+      "total": 0.0136,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.354
+    },
+    {
+      "rate": 0.0308156,
+      "quantity": 0.48613446,
+      "total": 0.015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.369
+    },
+    {
+      "rate": 0.0308,
+      "quantity": 0.41471019,
+      "total": 0.0128,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.3818
+    },
+    {
+      "rate": 0.03077,
+      "quantity": 3.53807107,
+      "total": 0.1089,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.4907
+    },
+    {
+      "rate": 0.03076,
+      "quantity": 0.37320284,
+      "total": 0.0115,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5022
+    },
+    {
+      "rate": 0.03075,
+      "quantity": 0.03245541,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5032
+    },
+    {
+      "rate": 0.03072941,
+      "quantity": 0.17215642,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5085
+    },
+    {
+      "rate": 0.03071609,
+      "quantity": 1.29813337,
+      "total": 0.0399,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5484
+    },
+    {
+      "rate": 0.03071467,
+      "quantity": 0.51260037,
+      "total": 0.0157,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5641
+    },
+    {
+      "rate": 0.0307,
+      "quantity": 14.62688891,
+      "total": 0.449,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.0131
+    },
+    {
+      "rate": 0.03069159,
+      "quantity": 0.20160652,
+      "total": 0.0062,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.0193
+    },
+    {
+      "rate": 0.0306,
+      "quantity": 0.18727999,
+      "total": 0.0057,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.025
+    },
+    {
+      "rate": 0.0305301,
+      "quantity": 0.23,
+      "total": 0.007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.032
+    },
+    {
+      "rate": 0.0305003,
+      "quantity": 0.025,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.0328
+    },
+    {
+      "rate": 0.0305,
+      "quantity": 42.84449529,
+      "total": 1.3068,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.3396
+    },
+    {
+      "rate": 0.0304906,
+      "quantity": 0.3,
+      "total": 0.0091,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.3487
+    },
+    {
+      "rate": 0.03047861,
+      "quantity": 1,
+      "total": 0.0305,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.3792
+    },
+    {
+      "rate": 0.03043005,
+      "quantity": 0.01672629,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.3797
+    },
+    {
+      "rate": 0.03041993,
+      "quantity": 0.22965299,
+      "total": 0.007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.3867
+    },
+    {
+      "rate": 0.03040591,
+      "quantity": 1.19025244,
+      "total": 0.0362,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.4229
+    },
+    {
+      "rate": 0.0304,
+      "quantity": 0.05809874,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.4247
+    },
+    {
+      "rate": 0.0303843,
+      "quantity": 3.29904659,
+      "total": 0.1002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.5249
+    },
+    {
+      "rate": 0.030319,
+      "quantity": 0.23524073,
+      "total": 0.0071,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.532
+    },
+    {
+      "rate": 0.0303002,
+      "quantity": 6.85903063,
+      "total": 0.2078,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.7398
+    },
+    {
+      "rate": 0.0303,
+      "quantity": 0.15386003,
+      "total": 0.0047,
+      "exchanges": ["bittrex"],
+      "aggtotal": 39.7445
+    },
+    {
+      "rate": 0.03029337,
+      "quantity": 50,
+      "total": 1.5147,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.2592
+    },
+    {
+      "rate": 0.03025,
+      "quantity": 0.03299186,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.2602
+    },
+    {
+      "rate": 0.03024857,
+      "quantity": 0.02,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.2608
+    },
+    {
+      "rate": 0.0302,
+      "quantity": 33.21466861,
+      "total": 1.0031,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.2639
+    },
+    {
+      "rate": 0.03019843,
+      "quantity": 0.51,
+      "total": 0.0154,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.2793
+    },
+    {
+      "rate": 0.03017296,
+      "quantity": 0.09942677,
+      "total": 0.003,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.2823
+    },
+    {
+      "rate": 0.03016962,
+      "quantity": 0.33145926,
+      "total": 0.01,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.2923
+    },
+    {
+      "rate": 0.03014492,
+      "quantity": 0.01658655,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.2928
+    },
+    {
+      "rate": 0.03014,
+      "quantity": 0.33095554,
+      "total": 0.01,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.3028
+    },
+    {
+      "rate": 0.0301111,
+      "quantity": 0.33127318,
+      "total": 0.01,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.3128
+    },
+    {
+      "rate": 0.0301043,
+      "quantity": 5.44463004,
+      "total": 0.1639,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.4767
+    },
+    {
+      "rate": 0.0301,
+      "quantity": 0.19856938,
+      "total": 0.006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.4827
+    },
+    {
+      "rate": 0.0300974,
+      "quantity": 0.82855994,
+      "total": 0.0249,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.5076
+    },
+    {
+      "rate": 0.0300003,
+      "quantity": 0.025,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.5084
+    },
+    {
+      "rate": 0.03000004,
+      "quantity": 2.1428254,
+      "total": 0.0643,
+      "exchanges": ["bittrex"],
+      "aggtotal": 42.5727
+    },
+    {
+      "rate": 0.03000002,
+      "quantity": 22.92533934,
+      "total": 0.6878,
+      "exchanges": ["bittrex"],
+      "aggtotal": 43.2605
+    },
+    {
+      "rate": 0.03000001,
+      "quantity": 0.24342273,
+      "total": 0.0073,
+      "exchanges": ["bittrex"],
+      "aggtotal": 43.2678
+    },
+    {
+      "rate": 0.03,
+      "quantity": 81.39803642,
+      "total": 2.4419,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.7097
+    },
+    {
+      "rate": 0.02999,
+      "quantity": 0.5,
+      "total": 0.015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.7247
+    },
+    {
+      "rate": 0.02991,
+      "quantity": 0.06366304,
+      "total": 0.0019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.7266
+    },
+    {
+      "rate": 0.0299,
+      "quantity": 0.52478281,
+      "total": 0.0157,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.7423
+    },
+    {
+      "rate": 0.02986991,
+      "quantity": 1.02109447,
+      "total": 0.0305,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.7728
+    },
+    {
+      "rate": 0.0298,
+      "quantity": 15.06232467,
+      "total": 0.4489,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.2217
+    },
+    {
+      "rate": 0.02976535,
+      "quantity": 0.01685773,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.2222
+    },
+    {
+      "rate": 0.02973318,
+      "quantity": 1.36304004,
+      "total": 0.0405,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.2627
+    },
+    {
+      "rate": 0.0297283,
+      "quantity": 0.3,
+      "total": 0.0089,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.2716
+    },
+    {
+      "rate": 0.0297,
+      "quantity": 0.94515438,
+      "total": 0.0281,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.2997
+    },
+    {
+      "rate": 0.02960679,
+      "quantity": 0.05,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.3012
+    },
+    {
+      "rate": 0.0296,
+      "quantity": 0.13104237,
+      "total": 0.0039,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.3051
+    },
+    {
+      "rate": 0.02957,
+      "quantity": 1.68752788,
+      "total": 0.0499,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.355
+    },
+    {
+      "rate": 0.029545,
+      "quantity": 0.5,
+      "total": 0.0148,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.3698
+    },
+    {
+      "rate": 0.02953374,
+      "quantity": 0.66,
+      "total": 0.0195,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.3893
+    },
+    {
+      "rate": 0.02950002,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.39
+    },
+    {
+      "rate": 0.0295,
+      "quantity": 0.09700158,
+      "total": 0.0029,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.3929
+    },
+    {
+      "rate": 0.0294907,
+      "quantity": 2.278,
+      "total": 0.0672,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.4601
+    },
+    {
+      "rate": 0.02945787,
+      "quantity": 0.0339129,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.4611
+    },
+    {
+      "rate": 0.02941176,
+      "quantity": 0.01713915,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.4616
+    },
+    {
+      "rate": 0.0294,
+      "quantity": 0.36643682,
+      "total": 0.0108,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.4724
+    },
+    {
+      "rate": 0.02935203,
+      "quantity": 2,
+      "total": 0.0587,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.5311
+    },
+    {
+      "rate": 0.02932906,
+      "quantity": 1,
+      "total": 0.0293,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.5604
+    },
+    {
+      "rate": 0.02932615,
+      "quantity": 0.16447564,
+      "total": 0.0048,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.5652
+    },
+    {
+      "rate": 0.0293,
+      "quantity": 0.02107571,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.5658
+    },
+    {
+      "rate": 0.02929942,
+      "quantity": 0.03952698,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.567
+    },
+    {
+      "rate": 0.02927852,
+      "quantity": 0.03415473,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.568
+    },
+    {
+      "rate": 0.02926273,
+      "quantity": 0.10236593,
+      "total": 0.003,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.571
+    },
+    {
+      "rate": 0.02926029,
+      "quantity": 0.19546894,
+      "total": 0.0057,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.5767
+    },
+    {
+      "rate": 0.0292,
+      "quantity": 10.22618432,
+      "total": 0.2986,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.8753
+    },
+    {
+      "rate": 0.0291312,
+      "quantity": 0.01730076,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.8758
+    },
+    {
+      "rate": 0.02912455,
+      "quantity": 1.26003024,
+      "total": 0.0367,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9125
+    },
+    {
+      "rate": 0.02910408,
+      "quantity": 0.06872505,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9145
+    },
+    {
+      "rate": 0.0291,
+      "quantity": 0.34830598,
+      "total": 0.0101,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9246
+    },
+    {
+      "rate": 0.02907483,
+      "quantity": 0.2,
+      "total": 0.0058,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9304
+    },
+    {
+      "rate": 0.02902769,
+      "quantity": 0.34,
+      "total": 0.0099,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9403
+    },
+    {
+      "rate": 0.02901,
+      "quantity": 0.77016871,
+      "total": 0.0223,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9626
+    },
+    {
+      "rate": 0.02900137,
+      "quantity": 0.4413364,
+      "total": 0.0128,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9754
+    },
+    {
+      "rate": 0.02900029,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 46.9761
+    },
+    {
+      "rate": 0.029,
+      "quantity": 2.10357603,
+      "total": 0.061,
+      "exchanges": ["bittrex"],
+      "aggtotal": 47.0371
+    },
+    {
+      "rate": 0.02898517,
+      "quantity": 0.39375503,
+      "total": 0.0114,
+      "exchanges": ["bittrex"],
+      "aggtotal": 47.0485
+    },
+    {
+      "rate": 0.02894739,
+      "quantity": 4.86988795,
+      "total": 0.141,
+      "exchanges": ["bittrex"],
+      "aggtotal": 47.1895
+    },
+    {
+      "rate": 0.0289001,
+      "quantity": 3.46019564,
+      "total": 0.1,
+      "exchanges": ["bittrex"],
+      "aggtotal": 47.2895
+    },
+    {
+      "rate": 0.0289,
+      "quantity": 2.11930187,
+      "total": 0.0612,
+      "exchanges": ["bittrex"],
+      "aggtotal": 47.3507
+    },
+    {
+      "rate": 0.02884576,
+      "quantity": 11.30166512,
+      "total": 0.326,
+      "exchanges": ["bittrex"],
+      "aggtotal": 47.6767
+    },
+    {
+      "rate": 0.02884,
+      "quantity": 13.28865466,
+      "total": 0.3832,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.0599
+    },
+    {
+      "rate": 0.0288,
+      "quantity": 0.47361073,
+      "total": 0.0136,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.0735
+    },
+    {
+      "rate": 0.0287912,
+      "quantity": 3.5,
+      "total": 0.1008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.1743
+    },
+    {
+      "rate": 0.02875756,
+      "quantity": 0.07171575,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.1764
+    },
+    {
+      "rate": 0.02875,
+      "quantity": 0.01757276,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.1769
+    },
+    {
+      "rate": 0.02874159,
+      "quantity": 3.52255815,
+      "total": 0.1012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.2781
+    },
+    {
+      "rate": 0.0287395,
+      "quantity": 3,
+      "total": 0.0862,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.3643
+    },
+    {
+      "rate": 0.02870906,
+      "quantity": 0.29925,
+      "total": 0.0086,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.3729
+    },
+    {
+      "rate": 0.0287,
+      "quantity": 17.58469377,
+      "total": 0.5047,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.8776
+    },
+    {
+      "rate": 0.02864124,
+      "quantity": 1,
+      "total": 0.0286,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.9062
+    },
+    {
+      "rate": 0.02863074,
+      "quantity": 0.94,
+      "total": 0.0269,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.9331
+    },
+    {
+      "rate": 0.02861833,
+      "quantity": 0.03494264,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.9341
+    },
+    {
+      "rate": 0.0286,
+      "quantity": 0.9441258,
+      "total": 0.027,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.9611
+    },
+    {
+      "rate": 0.02856,
+      "quantity": 0.01785189,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.9616
+    },
+    {
+      "rate": 0.02855161,
+      "quantity": 0.49874982,
+      "total": 0.0142,
+      "exchanges": ["bittrex"],
+      "aggtotal": 48.9758
+    },
+    {
+      "rate": 0.02855,
+      "quantity": 5.95934296,
+      "total": 0.1701,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.1459
+    },
+    {
+      "rate": 0.02853484,
+      "quantity": 0.06333959,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.1477
+    },
+    {
+      "rate": 0.02853395,
+      "quantity": 0.05,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.1491
+    },
+    {
+      "rate": 0.02850028,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.1498
+    },
+    {
+      "rate": 0.0285,
+      "quantity": 0.11001499,
+      "total": 0.0031,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.1529
+    },
+    {
+      "rate": 0.02847,
+      "quantity": 0.5,
+      "total": 0.0142,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.1671
+    },
+    {
+      "rate": 0.02845,
+      "quantity": 5,
+      "total": 0.1422,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.3093
+    },
+    {
+      "rate": 0.02844704,
+      "quantity": 1.29570745,
+      "total": 0.0369,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.3462
+    },
+    {
+      "rate": 0.02841621,
+      "quantity": 0.60056603,
+      "total": 0.0171,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.3633
+    },
+    {
+      "rate": 0.0284,
+      "quantity": 0.06397028,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.3651
+    },
+    {
+      "rate": 0.0283701,
+      "quantity": 0.19781445,
+      "total": 0.0056,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.3707
+    },
+    {
+      "rate": 0.02835958,
+      "quantity": 0.05,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.3721
+    },
+    {
+      "rate": 0.02830998,
+      "quantity": 0.01766162,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.3726
+    },
+    {
+      "rate": 0.0283,
+      "quantity": 9.11174675,
+      "total": 0.2579,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.6305
+    },
+    {
+      "rate": 0.02829915,
+      "quantity": 2.02184013,
+      "total": 0.0572,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.6877
+    },
+    {
+      "rate": 0.02829912,
+      "quantity": 0.03528386,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.6887
+    },
+    {
+      "rate": 0.02821,
+      "quantity": 0.2527723,
+      "total": 0.0071,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.6958
+    },
+    {
+      "rate": 0.0282,
+      "quantity": 0.21425867,
+      "total": 0.006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.7018
+    },
+    {
+      "rate": 0.02817,
+      "quantity": 1.77139508,
+      "total": 0.0499,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.7517
+    },
+    {
+      "rate": 0.02811,
+      "quantity": 0.13349324,
+      "total": 0.0038,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.7555
+    },
+    {
+      "rate": 0.0281,
+      "quantity": 0.08234248,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.7578
+    },
+    {
+      "rate": 0.02801,
+      "quantity": 4.87809279,
+      "total": 0.1366,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.8944
+    },
+    {
+      "rate": 0.028001,
+      "quantity": 0.01790012,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.8949
+    },
+    {
+      "rate": 0.02800028,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 49.8956
+    },
+    {
+      "rate": 0.028,
+      "quantity": 76.38108884,
+      "total": 2.1387,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.0343
+    },
+    {
+      "rate": 0.02791228,
+      "quantity": 0.2,
+      "total": 0.0056,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.0399
+    },
+    {
+      "rate": 0.02790501,
+      "quantity": 0.06616508,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.0417
+    },
+    {
+      "rate": 0.02790378,
+      "quantity": 5.36855987,
+      "total": 0.1498,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.1915
+    },
+    {
+      "rate": 0.0279,
+      "quantity": 0.5413319,
+      "total": 0.0151,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.2066
+    },
+    {
+      "rate": 0.02783323,
+      "quantity": 0.81752701,
+      "total": 0.0228,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.2294
+    },
+    {
+      "rate": 0.0278,
+      "quantity": 0.23240024,
+      "total": 0.0065,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.2359
+    },
+    {
+      "rate": 0.02778171,
+      "quantity": 15.90237754,
+      "total": 0.4418,
+      "exchanges": ["bittrex"],
+      "aggtotal": 52.6777
+    },
+    {
+      "rate": 0.02778,
+      "quantity": 15,
+      "total": 0.4167,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.0944
+    },
+    {
+      "rate": 0.02776535,
+      "quantity": 0.01804364,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.0949
+    },
+    {
+      "rate": 0.0277,
+      "quantity": 0.23518342,
+      "total": 0.0065,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.1014
+    },
+    {
+      "rate": 0.02767,
+      "quantity": 1.80340439,
+      "total": 0.0499,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.1513
+    },
+    {
+      "rate": 0.0276,
+      "quantity": 1.04831093,
+      "total": 0.0289,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.1802
+    },
+    {
+      "rate": 0.02759965,
+      "quantity": 0.18131595,
+      "total": 0.005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.1852
+    },
+    {
+      "rate": 0.0275526,
+      "quantity": 0.05,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.1866
+    },
+    {
+      "rate": 0.0275451,
+      "quantity": 0.59932594,
+      "total": 0.0165,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.2031
+    },
+    {
+      "rate": 0.0275027,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.2038
+    },
+    {
+      "rate": 0.0275,
+      "quantity": 8.37843881,
+      "total": 0.2304,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.4342
+    },
+    {
+      "rate": 0.02745098,
+      "quantity": 0.0224553,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.4348
+    },
+    {
+      "rate": 0.02744,
+      "quantity": 0.328,
+      "total": 0.009,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.4438
+    },
+    {
+      "rate": 0.02743112,
+      "quantity": 0.01822748,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.4443
+    },
+    {
+      "rate": 0.0274,
+      "quantity": 0.18109775,
+      "total": 0.005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.4493
+    },
+    {
+      "rate": 0.0273,
+      "quantity": 0.08402575,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.4516
+    },
+    {
+      "rate": 0.02729839,
+      "quantity": 1,
+      "total": 0.0273,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.4789
+    },
+    {
+      "rate": 0.02724009,
+      "quantity": 0.70014877,
+      "total": 0.0191,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.498
+    },
+    {
+      "rate": 0.0272,
+      "quantity": 1.02295963,
+      "total": 0.0278,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5258
+    },
+    {
+      "rate": 0.02711874,
+      "quantity": 0.05,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5272
+    },
+    {
+      "rate": 0.02711,
+      "quantity": 0.72149062,
+      "total": 0.0196,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5468
+    },
+    {
+      "rate": 0.0271,
+      "quantity": 0.05990912,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5484
+    },
+    {
+      "rate": 0.02703484,
+      "quantity": 0.06298186,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5501
+    },
+    {
+      "rate": 0.02702,
+      "quantity": 1,
+      "total": 0.027,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5771
+    },
+    {
+      "rate": 0.02701809,
+      "quantity": 0.1532774,
+      "total": 0.0041,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5812
+    },
+    {
+      "rate": 0.0270027,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5819
+    },
+    {
+      "rate": 0.0270001,
+      "quantity": 0.01885111,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.5824
+    },
+    {
+      "rate": 0.027,
+      "quantity": 3.09443149,
+      "total": 0.0835,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.6659
+    },
+    {
+      "rate": 0.02696078,
+      "quantity": 0.02234765,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.6665
+    },
+    {
+      "rate": 0.02694359,
+      "quantity": 1.12602724,
+      "total": 0.0303,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.6968
+    },
+    {
+      "rate": 0.0269,
+      "quantity": 0.03053346,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.6976
+    },
+    {
+      "rate": 0.0268,
+      "quantity": 0.03032281,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.6984
+    },
+    {
+      "rate": 0.02675653,
+      "quantity": 3.73740541,
+      "total": 0.1,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.7984
+    },
+    {
+      "rate": 0.0267,
+      "quantity": 0.05958071,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.8
+    },
+    {
+      "rate": 0.02667756,
+      "quantity": 0.09269999,
+      "total": 0.0025,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.8025
+    },
+    {
+      "rate": 0.02665123,
+      "quantity": 0.5,
+      "total": 0.0133,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.8158
+    },
+    {
+      "rate": 0.0266,
+      "quantity": 0.29779118,
+      "total": 0.0079,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.8237
+    },
+    {
+      "rate": 0.02659771,
+      "quantity": 0.30652395,
+      "total": 0.0082,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.8319
+    },
+    {
+      "rate": 0.0265026,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 53.8326
+    },
+    {
+      "rate": 0.0265,
+      "quantity": 11.61184369,
+      "total": 0.3077,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.1403
+    },
+    {
+      "rate": 0.02647059,
+      "quantity": 0.02234971,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.1409
+    },
+    {
+      "rate": 0.0264538,
+      "quantity": 1.13178899,
+      "total": 0.0299,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.1708
+    },
+    {
+      "rate": 0.02643653,
+      "quantity": 0.12897733,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.1742
+    },
+    {
+      "rate": 0.0264,
+      "quantity": 3,
+      "total": 0.0792,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.2534
+    },
+    {
+      "rate": 0.02639,
+      "quantity": 0.53266616,
+      "total": 0.0141,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.2675
+    },
+    {
+      "rate": 0.0263869,
+      "quantity": 0.75681663,
+      "total": 0.02,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.2875
+    },
+    {
+      "rate": 0.02636,
+      "quantity": 0.75721091,
+      "total": 0.02,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.3075
+    },
+    {
+      "rate": 0.0262911,
+      "quantity": 0.25,
+      "total": 0.0066,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.3141
+    },
+    {
+      "rate": 0.02628405,
+      "quantity": 2,
+      "total": 0.0526,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.3667
+    },
+    {
+      "rate": 0.02625,
+      "quantity": 2,
+      "total": 0.0525,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.4192
+    },
+    {
+      "rate": 0.02620498,
+      "quantity": 5.72716176,
+      "total": 0.1501,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.5693
+    },
+    {
+      "rate": 0.0262,
+      "quantity": 3.58445791,
+      "total": 0.0939,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6632
+    },
+    {
+      "rate": 0.026181,
+      "quantity": 0.52141385,
+      "total": 0.0137,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6769
+    },
+    {
+      "rate": 0.0261703,
+      "quantity": 0.03815519,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6779
+    },
+    {
+      "rate": 0.02616071,
+      "quantity": 0.03661194,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6789
+    },
+    {
+      "rate": 0.02613,
+      "quantity": 0.328,
+      "total": 0.0086,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6875
+    },
+    {
+      "rate": 0.0261,
+      "quantity": 0.02830586,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6882
+    },
+    {
+      "rate": 0.02608636,
+      "quantity": 0.05,
+      "total": 0.0013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6895
+    },
+    {
+      "rate": 0.026023,
+      "quantity": 0.4,
+      "total": 0.0104,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.6999
+    },
+    {
+      "rate": 0.0260026,
+      "quantity": 0.025,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.7006
+    },
+    {
+      "rate": 0.026001,
+      "quantity": 0.01957547,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.7011
+    },
+    {
+      "rate": 0.02600001,
+      "quantity": 3.83847541,
+      "total": 0.0998,
+      "exchanges": ["bittrex"],
+      "aggtotal": 54.8009
+    },
+    {
+      "rate": 0.026,
+      "quantity": 49.66909804,
+      "total": 1.2914,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.0923
+    },
+    {
+      "rate": 0.02598039,
+      "quantity": 0.02234916,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.0929
+    },
+    {
+      "rate": 0.02589541,
+      "quantity": 0.24002319,
+      "total": 0.0062,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.0991
+    },
+    {
+      "rate": 0.025864,
+      "quantity": 0.1,
+      "total": 0.0026,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.1017
+    },
+    {
+      "rate": 0.02585491,
+      "quantity": 0.10841572,
+      "total": 0.0028,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.1045
+    },
+    {
+      "rate": 0.0258,
+      "quantity": 9.07732296,
+      "total": 0.2342,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.3387
+    },
+    {
+      "rate": 0.02561004,
+      "quantity": 0.023,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.3393
+    },
+    {
+      "rate": 0.0256,
+      "quantity": 9.85,
+      "total": 0.2522,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.5915
+    },
+    {
+      "rate": 0.02557316,
+      "quantity": 0.71434151,
+      "total": 0.0183,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.6098
+    },
+    {
+      "rate": 0.02551,
+      "quantity": 1,
+      "total": 0.0255,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.6353
+    },
+    {
+      "rate": 0.02550025,
+      "quantity": 0.025,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.6359
+    },
+    {
+      "rate": 0.0254902,
+      "quantity": 0.02247687,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.6365
+    },
+    {
+      "rate": 0.02548711,
+      "quantity": 1.94316885,
+      "total": 0.0495,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.686
+    },
+    {
+      "rate": 0.02541708,
+      "quantity": 0.7,
+      "total": 0.0178,
+      "exchanges": ["bittrex"],
+      "aggtotal": 56.7038
+    },
+    {
+      "rate": 0.0254,
+      "quantity": 15.11808553,
+      "total": 0.384,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.0878
+    },
+    {
+      "rate": 0.0253512,
+      "quantity": 0.25718231,
+      "total": 0.0065,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.0943
+    },
+    {
+      "rate": 0.02529166,
+      "quantity": 0.03953873,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.0953
+    },
+    {
+      "rate": 0.02528709,
+      "quantity": 0.01977295,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.0958
+    },
+    {
+      "rate": 0.02528,
+      "quantity": 0.5,
+      "total": 0.0126,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.1084
+    },
+    {
+      "rate": 0.02527337,
+      "quantity": 0.09159259,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.1107
+    },
+    {
+      "rate": 0.0252,
+      "quantity": 2.5,
+      "total": 0.063,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.1737
+    },
+    {
+      "rate": 0.02513455,
+      "quantity": 3.02518869,
+      "total": 0.076,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.2497
+    },
+    {
+      "rate": 0.0251212,
+      "quantity": 0.3972755,
+      "total": 0.01,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.2597
+    },
+    {
+      "rate": 0.02509889,
+      "quantity": 9.81944413,
+      "total": 0.2465,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.5062
+    },
+    {
+      "rate": 0.02503099,
+      "quantity": 0.06263692,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.5078
+    },
+    {
+      "rate": 0.0250025,
+      "quantity": 0.025,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.5084
+    },
+    {
+      "rate": 0.025001,
+      "quantity": 0.02035846,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 57.5089
+    },
+    {
+      "rate": 0.025,
+      "quantity": 184.40497941,
+      "total": 4.6101,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.119
+    },
+    {
+      "rate": 0.024912,
+      "quantity": 2.02,
+      "total": 0.0503,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.1693
+    },
+    {
+      "rate": 0.0249,
+      "quantity": 0.20442624,
+      "total": 0.0051,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.1744
+    },
+    {
+      "rate": 0.02488494,
+      "quantity": 0.04324462,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.1755
+    },
+    {
+      "rate": 0.0248,
+      "quantity": 0.52143486,
+      "total": 0.0129,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.1884
+    },
+    {
+      "rate": 0.0247,
+      "quantity": 0.17969434,
+      "total": 0.0044,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.1928
+    },
+    {
+      "rate": 0.02467,
+      "quantity": 1.37008512,
+      "total": 0.0338,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.2266
+    },
+    {
+      "rate": 0.02459359,
+      "quantity": 0.12313993,
+      "total": 0.003,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.2296
+    },
+    {
+      "rate": 0.02459,
+      "quantity": 0.14007198,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.233
+    },
+    {
+      "rate": 0.02458399,
+      "quantity": 1,
+      "total": 0.0246,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.2576
+    },
+    {
+      "rate": 0.02456455,
+      "quantity": 0.31399312,
+      "total": 0.0077,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.2653
+    },
+    {
+      "rate": 0.0245098,
+      "quantity": 0.02232433,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.2658
+    },
+    {
+      "rate": 0.024503,
+      "quantity": 1.07637966,
+      "total": 0.0264,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.2922
+    },
+    {
+      "rate": 0.02450001,
+      "quantity": 0.15,
+      "total": 0.0037,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.2959
+    },
+    {
+      "rate": 0.0245,
+      "quantity": 2.25886466,
+      "total": 0.0553,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.3512
+    },
+    {
+      "rate": 0.02447405,
+      "quantity": 0.2,
+      "total": 0.0049,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.3561
+    },
+    {
+      "rate": 0.02444277,
+      "quantity": 20,
+      "total": 0.4889,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.845
+    },
+    {
+      "rate": 0.0244,
+      "quantity": 0.40901802,
+      "total": 0.01,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.855
+    },
+    {
+      "rate": 0.02431386,
+      "quantity": 0.05,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.8562
+    },
+    {
+      "rate": 0.0243,
+      "quantity": 0.02087484,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.8567
+    },
+    {
+      "rate": 0.02426915,
+      "quantity": 0.52751749,
+      "total": 0.0128,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.8695
+    },
+    {
+      "rate": 0.02423214,
+      "quantity": 0.73388947,
+      "total": 0.0178,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.8873
+    },
+    {
+      "rate": 0.02422,
+      "quantity": 2.02,
+      "total": 0.0489,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.9362
+    },
+    {
+      "rate": 0.0242,
+      "quantity": 0.53897813,
+      "total": 0.013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.9492
+    },
+    {
+      "rate": 0.0241,
+      "quantity": 1.4053083,
+      "total": 0.0339,
+      "exchanges": ["bittrex"],
+      "aggtotal": 62.9831
+    },
+    {
+      "rate": 0.02408751,
+      "quantity": 5,
+      "total": 0.1204,
+      "exchanges": ["bittrex"],
+      "aggtotal": 63.1035
+    },
+    {
+      "rate": 0.024044,
+      "quantity": 0.5,
+      "total": 0.012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 63.1155
+    },
+    {
+      "rate": 0.02401961,
+      "quantity": 0.0224119,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 63.116
+    },
+    {
+      "rate": 0.024001,
+      "quantity": 0.0212067,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 63.1165
+    },
+    {
+      "rate": 0.024,
+      "quantity": 44.38349966,
+      "total": 1.0652,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.1817
+    },
+    {
+      "rate": 0.02398,
+      "quantity": 1,
+      "total": 0.024,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2057
+    },
+    {
+      "rate": 0.0239585,
+      "quantity": 0.05,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2069
+    },
+    {
+      "rate": 0.0239,
+      "quantity": 1,
+      "total": 0.0239,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2308
+    },
+    {
+      "rate": 0.0238458,
+      "quantity": 0.05,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.232
+    },
+    {
+      "rate": 0.02382409,
+      "quantity": 0.02136417,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2325
+    },
+    {
+      "rate": 0.0238,
+      "quantity": 0.05139454,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2337
+    },
+    {
+      "rate": 0.0237,
+      "quantity": 0.2,
+      "total": 0.0047,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2384
+    },
+    {
+      "rate": 0.0236,
+      "quantity": 0.02302419,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2389
+    },
+    {
+      "rate": 0.02354071,
+      "quantity": 0.5,
+      "total": 0.0118,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2507
+    },
+    {
+      "rate": 0.02352941,
+      "quantity": 0.02223643,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.2512
+    },
+    {
+      "rate": 0.0235,
+      "quantity": 29.73537817,
+      "total": 0.6988,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.95
+    },
+    {
+      "rate": 0.0234,
+      "quantity": 0.2958877,
+      "total": 0.0069,
+      "exchanges": ["bittrex"],
+      "aggtotal": 64.9569
+    },
+    {
+      "rate": 0.02334103,
+      "quantity": 3,
+      "total": 0.07,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0269
+    },
+    {
+      "rate": 0.02333333,
+      "quantity": 0.02954777,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0276
+    },
+    {
+      "rate": 0.0233,
+      "quantity": 0.12538946,
+      "total": 0.0029,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0305
+    },
+    {
+      "rate": 0.0232142,
+      "quantity": 0.05,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0317
+    },
+    {
+      "rate": 0.02320942,
+      "quantity": 0.06841292,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0333
+    },
+    {
+      "rate": 0.02320469,
+      "quantity": 0.02823608,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.034
+    },
+    {
+      "rate": 0.0232,
+      "quantity": 0.05242044,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0352
+    },
+    {
+      "rate": 0.02314363,
+      "quantity": 0.76466726,
+      "total": 0.0177,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0529
+    },
+    {
+      "rate": 0.02313862,
+      "quantity": 0.28105408,
+      "total": 0.0065,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.0594
+    },
+    {
+      "rate": 0.0231,
+      "quantity": 3.35302641,
+      "total": 0.0775,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.1369
+    },
+    {
+      "rate": 0.02308055,
+      "quantity": 1.16748118,
+      "total": 0.0269,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.1638
+    },
+    {
+      "rate": 0.02303922,
+      "quantity": 0.02223557,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.1643
+    },
+    {
+      "rate": 0.02302,
+      "quantity": 0.8781403,
+      "total": 0.0202,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.1845
+    },
+    {
+      "rate": 0.023001,
+      "quantity": 0.02212869,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.185
+    },
+    {
+      "rate": 0.023,
+      "quantity": 6.01738364,
+      "total": 0.1384,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.3234
+    },
+    {
+      "rate": 0.02274286,
+      "quantity": 0.84684126,
+      "total": 0.0193,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.3427
+    },
+    {
+      "rate": 0.0226625,
+      "quantity": 6.43710747,
+      "total": 0.1459,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.4886
+    },
+    {
+      "rate": 0.0226,
+      "quantity": 0.02252132,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.4891
+    },
+    {
+      "rate": 0.02254902,
+      "quantity": 0.02236461,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.4896
+    },
+    {
+      "rate": 0.02250001,
+      "quantity": 2,
+      "total": 0.045,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.5346
+    },
+    {
+      "rate": 0.0225,
+      "quantity": 0.06317711,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.536
+    },
+    {
+      "rate": 0.02249616,
+      "quantity": 0.0443633,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.537
+    },
+    {
+      "rate": 0.0224923,
+      "quantity": 0.43005669,
+      "total": 0.0097,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.5467
+    },
+    {
+      "rate": 0.0224,
+      "quantity": 0.04555333,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.5477
+    },
+    {
+      "rate": 0.0223,
+      "quantity": 0.0228243,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.5482
+    },
+    {
+      "rate": 0.02224,
+      "quantity": 0.02397812,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.5487
+    },
+    {
+      "rate": 0.02223966,
+      "quantity": 20,
+      "total": 0.4448,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.9935
+    },
+    {
+      "rate": 0.02222222,
+      "quantity": 0.02361777,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.994
+    },
+    {
+      "rate": 0.0222,
+      "quantity": 0.24794104,
+      "total": 0.0055,
+      "exchanges": ["bittrex"],
+      "aggtotal": 65.9995
+    },
+    {
+      "rate": 0.0221,
+      "quantity": 0.26872464,
+      "total": 0.0059,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.0054
+    },
+    {
+      "rate": 0.02205798,
+      "quantity": 0.0241552,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.0059
+    },
+    {
+      "rate": 0.02200519,
+      "quantity": 0.5,
+      "total": 0.011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.0169
+    },
+    {
+      "rate": 0.022,
+      "quantity": 13.94306825,
+      "total": 0.3067,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3236
+    },
+    {
+      "rate": 0.0219754,
+      "quantity": 0.02275272,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3241
+    },
+    {
+      "rate": 0.0219,
+      "quantity": 0.02324118,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3246
+    },
+    {
+      "rate": 0.02188,
+      "quantity": 1,
+      "total": 0.0219,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3465
+    },
+    {
+      "rate": 0.02183131,
+      "quantity": 0.09161154,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3485
+    },
+    {
+      "rate": 0.0218,
+      "quantity": 0.05934404,
+      "total": 0.0013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3498
+    },
+    {
+      "rate": 0.02179361,
+      "quantity": 0.5,
+      "total": 0.0109,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3607
+    },
+    {
+      "rate": 0.02179,
+      "quantity": 0.15,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.364
+    },
+    {
+      "rate": 0.02175,
+      "quantity": 1,
+      "total": 0.0217,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3857
+    },
+    {
+      "rate": 0.0217,
+      "quantity": 0.0335734,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3864
+    },
+    {
+      "rate": 0.021666,
+      "quantity": 0.05,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.3875
+    },
+    {
+      "rate": 0.02165701,
+      "quantity": 1.36,
+      "total": 0.0295,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.417
+    },
+    {
+      "rate": 0.0216,
+      "quantity": 0.03372883,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.4177
+    },
+    {
+      "rate": 0.02158202,
+      "quantity": 0.5,
+      "total": 0.0108,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.4285
+    },
+    {
+      "rate": 0.0215645,
+      "quantity": 0.3192,
+      "total": 0.0069,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.4354
+    },
+    {
+      "rate": 0.0215396,
+      "quantity": 2.78000703,
+      "total": 0.0599,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.4953
+    },
+    {
+      "rate": 0.02153097,
+      "quantity": 0.07508285,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.4969
+    },
+    {
+      "rate": 0.02151598,
+      "quantity": 0.05,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.498
+    },
+    {
+      "rate": 0.0215,
+      "quantity": 6.2958455,
+      "total": 0.1354,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.6334
+    },
+    {
+      "rate": 0.02149932,
+      "quantity": 0.02419239,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.6339
+    },
+    {
+      "rate": 0.02148937,
+      "quantity": 2.32208759,
+      "total": 0.0499,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.6838
+    },
+    {
+      "rate": 0.0214,
+      "quantity": 0.10999794,
+      "total": 0.0024,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.6862
+    },
+    {
+      "rate": 0.02139835,
+      "quantity": 0.6,
+      "total": 0.0128,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.699
+    },
+    {
+      "rate": 0.021372,
+      "quantity": 0.475,
+      "total": 0.0102,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.7092
+    },
+    {
+      "rate": 0.02137043,
+      "quantity": 0.5,
+      "total": 0.0107,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.7199
+    },
+    {
+      "rate": 0.02136249,
+      "quantity": 0.20098233,
+      "total": 0.0043,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.7242
+    },
+    {
+      "rate": 0.0213,
+      "quantity": 0.03373534,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.7249
+    },
+    {
+      "rate": 0.02129136,
+      "quantity": 0.6,
+      "total": 0.0128,
+      "exchanges": ["bittrex"],
+      "aggtotal": 66.7377
+    },
+    {
+      "rate": 0.03310685,
+      "quantity": 3,
+      "total": 0.0993,
+      "exchanges": ["poloniex"],
+      "aggtotal": 66.837
+    },
+    {
+      "rate": 0.03310684,
+      "quantity": 47.15839717,
+      "total": 1.5613,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3983
+    },
+    {
+      "rate": 0.03309906,
+      "quantity": 4.52774245,
+      "total": 0.1499,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.5482
+    },
+    {
+      "rate": 0.03309902,
+      "quantity": 4.38384966,
+      "total": 0.1451,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.6933
+    },
+    {
+      "rate": 0.03309841,
+      "quantity": 32.04515644,
+      "total": 1.0606,
+      "exchanges": ["poloniex"],
+      "aggtotal": 69.7539
+    },
+    {
+      "rate": 0.03309618,
+      "quantity": 6.03917006,
+      "total": 0.1999,
+      "exchanges": ["poloniex"],
+      "aggtotal": 69.9538
+    },
+    {
+      "rate": 0.03309302,
+      "quantity": 53.1,
+      "total": 1.7572,
+      "exchanges": ["poloniex"],
+      "aggtotal": 71.711
+    },
+    {
+      "rate": 0.03309192,
+      "quantity": 6.0383465,
+      "total": 0.1998,
+      "exchanges": ["poloniex"],
+      "aggtotal": 71.9108
+    },
+    {
+      "rate": 0.03308217,
+      "quantity": 37.7,
+      "total": 1.2472,
+      "exchanges": ["poloniex"],
+      "aggtotal": 73.158
+    },
+    {
+      "rate": 0.03307831,
+      "quantity": 3,
+      "total": 0.0992,
+      "exchanges": ["poloniex"],
+      "aggtotal": 73.2572
+    },
+    {
+      "rate": 0.033075,
+      "quantity": 1.515,
+      "total": 0.0501,
+      "exchanges": ["poloniex"],
+      "aggtotal": 73.3073
+    },
+    {
+      "rate": 0.0330674,
+      "quantity": 29,
+      "total": 0.959,
+      "exchanges": ["poloniex"],
+      "aggtotal": 74.2663
+    },
+    {
+      "rate": 0.03305527,
+      "quantity": 37.6,
+      "total": 1.2429,
+      "exchanges": ["poloniex"],
+      "aggtotal": 75.5092
+    },
+    {
+      "rate": 0.03304146,
+      "quantity": 2.75,
+      "total": 0.0909,
+      "exchanges": ["poloniex"],
+      "aggtotal": 75.6001
+    },
+    {
+      "rate": 0.03304145,
+      "quantity": 32.2,
+      "total": 1.0639,
+      "exchanges": ["poloniex"],
+      "aggtotal": 76.664
+    },
+    {
+      "rate": 0.03302787,
+      "quantity": 38.4,
+      "total": 1.2683,
+      "exchanges": ["poloniex"],
+      "aggtotal": 77.9323
+    },
+    {
+      "rate": 0.03302786,
+      "quantity": 35,
+      "total": 1.156,
+      "exchanges": ["poloniex"],
+      "aggtotal": 79.0883
+    },
+    {
+      "rate": 0.03301517,
+      "quantity": 33.1,
+      "total": 1.0928,
+      "exchanges": ["poloniex"],
+      "aggtotal": 80.1811
+    },
+    {
+      "rate": 0.0330142,
+      "quantity": 28.43,
+      "total": 0.9386,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1197
+    },
+    {
+      "rate": 0.03300385,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1214
+    },
+    {
+      "rate": 0.03300296,
+      "quantity": 0.1,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1247
+    },
+    {
+      "rate": 0.03300208,
+      "quantity": 0.00469583,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1249
+    },
+    {
+      "rate": 0.033001,
+      "quantity": 0.25635192,
+      "total": 0.0085,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1334
+    },
+    {
+      "rate": 0.03300077,
+      "quantity": 1.14930349,
+      "total": 0.0379,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1713
+    },
+    {
+      "rate": 0.03299909,
+      "quantity": 0.00403759,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1714
+    },
+    {
+      "rate": 0.03299837,
+      "quantity": 0.74589017,
+      "total": 0.0246,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.196
+    },
+    {
+      "rate": 0.03298897,
+      "quantity": 0.05,
+      "total": 0.0016,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1976
+    },
+    {
+      "rate": 0.03298484,
+      "quantity": 0.02229666,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.1983
+    },
+    {
+      "rate": 0.03297738,
+      "quantity": 0.155036,
+      "total": 0.0051,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.2034
+    },
+    {
+      "rate": 0.03296905,
+      "quantity": 0.09099439,
+      "total": 0.003,
+      "exchanges": ["poloniex"],
+      "aggtotal": 81.2064
+    },
+    {
+      "rate": 0.03295087,
+      "quantity": 68.00662683,
+      "total": 2.2409,
+      "exchanges": ["poloniex"],
+      "aggtotal": 83.4473
+    },
+    {
+      "rate": 0.03293812,
+      "quantity": 0.05172835,
+      "total": 0.0017,
+      "exchanges": ["poloniex"],
+      "aggtotal": 83.449
+    },
+    {
+      "rate": 0.0329303,
+      "quantity": 0.02002974,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 83.4497
+    },
+    {
+      "rate": 0.03292675,
+      "quantity": 0.1786787,
+      "total": 0.0059,
+      "exchanges": ["poloniex"],
+      "aggtotal": 83.4556
+    },
+    {
+      "rate": 0.03292292,
+      "quantity": 0.19021777,
+      "total": 0.0063,
+      "exchanges": ["poloniex"],
+      "aggtotal": 83.4619
+    },
+    {
+      "rate": 0.03291001,
+      "quantity": 10.68045403,
+      "total": 0.3515,
+      "exchanges": ["poloniex"],
+      "aggtotal": 83.8134
+    },
+    {
+      "rate": 0.03291,
+      "quantity": 5.05788544,
+      "total": 0.1665,
+      "exchanges": ["poloniex"],
+      "aggtotal": 83.9799
+    },
+    {
+      "rate": 0.03289962,
+      "quantity": 0.80128703,
+      "total": 0.0264,
+      "exchanges": ["poloniex"],
+      "aggtotal": 84.0063
+    },
+    {
+      "rate": 0.0328996,
+      "quantity": 0.0040498,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 84.0064
+    },
+    {
+      "rate": 0.03288662,
+      "quantity": 0.0300446,
+      "total": 0.001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 84.0074
+    },
+    {
+      "rate": 0.03288658,
+      "quantity": 281.61,
+      "total": 9.2612,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.2686
+    },
+    {
+      "rate": 0.0328841,
+      "quantity": 0.09975386,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.2719
+    },
+    {
+      "rate": 0.03285848,
+      "quantity": 0.00471636,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.2721
+    },
+    {
+      "rate": 0.03285714,
+      "quantity": 0.319371,
+      "total": 0.0105,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.2826
+    },
+    {
+      "rate": 0.03285097,
+      "quantity": 1,
+      "total": 0.0329,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3155
+    },
+    {
+      "rate": 0.03284249,
+      "quantity": 0.0261146,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3164
+    },
+    {
+      "rate": 0.03283212,
+      "quantity": 0.0178,
+      "total": 0.0006,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.317
+    },
+    {
+      "rate": 0.03281862,
+      "quantity": 0.02240959,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3177
+    },
+    {
+      "rate": 0.03281549,
+      "quantity": 0.04325043,
+      "total": 0.0014,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3191
+    },
+    {
+      "rate": 0.03280915,
+      "quantity": 0.60958605,
+      "total": 0.02,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3391
+    },
+    {
+      "rate": 0.03278,
+      "quantity": 0.09895881,
+      "total": 0.0032,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3423
+    },
+    {
+      "rate": 0.0327574,
+      "quantity": 0.10013969,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3456
+    },
+    {
+      "rate": 0.03272639,
+      "quantity": 0.01197523,
+      "total": 0.0004,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.346
+    },
+    {
+      "rate": 0.03272144,
+      "quantity": 0.01760696,
+      "total": 0.0006,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3466
+    },
+    {
+      "rate": 0.0327155,
+      "quantity": 0.00473697,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 93.3468
+    },
+    {
+      "rate": 0.03270345,
+      "quantity": 139.71,
+      "total": 4.569,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9158
+    },
+    {
+      "rate": 0.03269862,
+      "quantity": 0.06460578,
+      "total": 0.0021,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9179
+    },
+    {
+      "rate": 0.0326944,
+      "quantity": 0.17994855,
+      "total": 0.0059,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9238
+    },
+    {
+      "rate": 0.03265324,
+      "quantity": 0.02252309,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9245
+    },
+    {
+      "rate": 0.03263436,
+      "quantity": 0.02628115,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9254
+    },
+    {
+      "rate": 0.03263119,
+      "quantity": 0.02972616,
+      "total": 0.001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9264
+    },
+    {
+      "rate": 0.03263118,
+      "quantity": 0.10052703,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9297
+    },
+    {
+      "rate": 0.03261635,
+      "quantity": 0.00327068,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9298
+    },
+    {
+      "rate": 0.03261289,
+      "quantity": 0.07620185,
+      "total": 0.0025,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9323
+    },
+    {
+      "rate": 0.03260986,
+      "quantity": 0.35853052,
+      "total": 0.0117,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.944
+    },
+    {
+      "rate": 0.03260204,
+      "quantity": 0.3,
+      "total": 0.0098,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9538
+    },
+    {
+      "rate": 0.0325749,
+      "quantity": 0.78542957,
+      "total": 0.0256,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9794
+    },
+    {
+      "rate": 0.03257314,
+      "quantity": 0.00475767,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9796
+    },
+    {
+      "rate": 0.032564,
+      "quantity": 0.02526286,
+      "total": 0.0008,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9804
+    },
+    {
+      "rate": 0.03253604,
+      "quantity": 0.2125846,
+      "total": 0.0069,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9873
+    },
+    {
+      "rate": 0.03251999,
+      "quantity": 0.03690039,
+      "total": 0.0012,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9885
+    },
+    {
+      "rate": 0.03251569,
+      "quantity": 0.00317578,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9886
+    },
+    {
+      "rate": 0.03251145,
+      "quantity": 0.15,
+      "total": 0.0049,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9935
+    },
+    {
+      "rate": 0.0325102,
+      "quantity": 0.019371,
+      "total": 0.0006,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9941
+    },
+    {
+      "rate": 0.03250823,
+      "quantity": 0.00324289,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9942
+    },
+    {
+      "rate": 0.03250545,
+      "quantity": 0.10091587,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 97.9975
+    },
+    {
+      "rate": 0.03250375,
+      "quantity": 56.67,
+      "total": 1.842,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8395
+    },
+    {
+      "rate": 0.03249898,
+      "quantity": 1.03863198,
+      "total": 0.0338,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8733
+    },
+    {
+      "rate": 0.03248869,
+      "quantity": 0.02263716,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.874
+    },
+    {
+      "rate": 0.03248023,
+      "quantity": 0.00935707,
+      "total": 0.0003,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8743
+    },
+    {
+      "rate": 0.03247823,
+      "quantity": 0.04973789,
+      "total": 0.0016,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8759
+    },
+    {
+      "rate": 0.03246368,
+      "quantity": 0.18122742,
+      "total": 0.0059,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8818
+    },
+    {
+      "rate": 0.03246064,
+      "quantity": 0.01562655,
+      "total": 0.0005,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8823
+    },
+    {
+      "rate": 0.0324314,
+      "quantity": 0.00477846,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8825
+    },
+    {
+      "rate": 0.03242755,
+      "quantity": 0.02644876,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8834
+    },
+    {
+      "rate": 0.03238022,
+      "quantity": 0.00370596,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8835
+    },
+    {
+      "rate": 0.03238021,
+      "quantity": 0.10130619,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8868
+    },
+    {
+      "rate": 0.03234693,
+      "quantity": 0.3,
+      "total": 0.0097,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8965
+    },
+    {
+      "rate": 0.03232497,
+      "quantity": 0.02275182,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8972
+    },
+    {
+      "rate": 0.03229028,
+      "quantity": 0.00479935,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8974
+    },
+    {
+      "rate": 0.03229,
+      "quantity": 0.03,
+      "total": 0.001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8984
+    },
+    {
+      "rate": 0.03225948,
+      "quantity": 0.02764554,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.8993
+    },
+    {
+      "rate": 0.03225544,
+      "quantity": 0.10169806,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 99.9026
+    }
+  ],
+  "asks": [
+    {
+      "rate": 0.0331405,
+      "quantity": 1.68823399,
+      "total": 0.0559,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.0559
+    },
+    {
+      "rate": 0.03314051,
+      "quantity": 2.861,
+      "total": 0.0948,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.1507
+    },
+    {
+      "rate": 0.03314055,
+      "quantity": 0.19029097,
+      "total": 0.0063,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.157
+    },
+    {
+      "rate": 0.03314056,
+      "quantity": 6,
+      "total": 0.1988,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.3558
+    },
+    {
+      "rate": 0.03314061,
+      "quantity": 6.0385267,
+      "total": 0.2001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.5559
+    },
+    {
+      "rate": 0.03314073,
+      "quantity": 4.57896626,
+      "total": 0.1518,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.7077
+    },
+    {
+      "rate": 0.03314105,
+      "quantity": 5.507,
+      "total": 0.1825,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.8902
+    },
+    {
+      "rate": 0.03314731,
+      "quantity": 1.47435075,
+      "total": 0.0489,
+      "exchanges": ["bittrex"],
+      "aggtotal": 0.9391
+    },
+    {
+      "rate": 0.03315088,
+      "quantity": 6.33722088,
+      "total": 0.2101,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.1492
+    },
+    {
+      "rate": 0.03315089,
+      "quantity": 5,
+      "total": 0.1658,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.315
+    },
+    {
+      "rate": 0.03315092,
+      "quantity": 4.52810001,
+      "total": 0.1501,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.4651
+    },
+    {
+      "rate": 0.03315414,
+      "quantity": 4.34186615,
+      "total": 0.144,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.6091
+    },
+    {
+      "rate": 0.03315415,
+      "quantity": 3.75,
+      "total": 0.1243,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.7334
+    },
+    {
+      "rate": 0.0331549,
+      "quantity": 3.01,
+      "total": 0.0998,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.8332
+    },
+    {
+      "rate": 0.03315553,
+      "quantity": 2.65650353,
+      "total": 0.0881,
+      "exchanges": ["bittrex"],
+      "aggtotal": 1.9213
+    },
+    {
+      "rate": 0.03315685,
+      "quantity": 3.01879529,
+      "total": 0.1001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.0214
+    },
+    {
+      "rate": 0.03315686,
+      "quantity": 1.00349517,
+      "total": 0.0333,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.0547
+    },
+    {
+      "rate": 0.03315922,
+      "quantity": 6.03846489,
+      "total": 0.2002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.2549
+    },
+    {
+      "rate": 0.03315923,
+      "quantity": 3.01875401,
+      "total": 0.1001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.355
+    },
+    {
+      "rate": 0.03316271,
+      "quantity": 2.5989,
+      "total": 0.0862,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.4412
+    },
+    {
+      "rate": 0.033166,
+      "quantity": 3.01875401,
+      "total": 0.1001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.5413
+    },
+    {
+      "rate": 0.03316733,
+      "quantity": 1.33880481,
+      "total": 0.0444,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.5857
+    },
+    {
+      "rate": 0.03317129,
+      "quantity": 0.05502004,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.5875
+    },
+    {
+      "rate": 0.03317408,
+      "quantity": 9.05,
+      "total": 0.3002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.8877
+    },
+    {
+      "rate": 0.03318172,
+      "quantity": 0.13290895,
+      "total": 0.0044,
+      "exchanges": ["bittrex"],
+      "aggtotal": 2.8921
+    },
+    {
+      "rate": 0.03319827,
+      "quantity": 5.00806839,
+      "total": 0.1663,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.0584
+    },
+    {
+      "rate": 0.0331983,
+      "quantity": 9.4,
+      "total": 0.3121,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.3705
+    },
+    {
+      "rate": 0.03319877,
+      "quantity": 0.04358247,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.3719
+    },
+    {
+      "rate": 0.03320672,
+      "quantity": 5.17230206,
+      "total": 0.1718,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.5437
+    },
+    {
+      "rate": 0.03320673,
+      "quantity": 9.6,
+      "total": 0.3188,
+      "exchanges": ["bittrex"],
+      "aggtotal": 3.8625
+    },
+    {
+      "rate": 0.03321109,
+      "quantity": 29.75,
+      "total": 0.988,
+      "exchanges": ["bittrex"],
+      "aggtotal": 4.8505
+    },
+    {
+      "rate": 0.0332519,
+      "quantity": 29.99999996,
+      "total": 0.9976,
+      "exchanges": ["bittrex"],
+      "aggtotal": 5.8481
+    },
+    {
+      "rate": 0.03325191,
+      "quantity": 1.09181768,
+      "total": 0.0363,
+      "exchanges": ["bittrex"],
+      "aggtotal": 5.8844
+    },
+    {
+      "rate": 0.0332553,
+      "quantity": 0.01837878,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 5.885
+    },
+    {
+      "rate": 0.033259,
+      "quantity": 0.04,
+      "total": 0.0013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 5.8863
+    },
+    {
+      "rate": 0.03326946,
+      "quantity": 0.0835358,
+      "total": 0.0028,
+      "exchanges": ["bittrex"],
+      "aggtotal": 5.8891
+    },
+    {
+      "rate": 0.03328147,
+      "quantity": 1.25830541,
+      "total": 0.0419,
+      "exchanges": ["bittrex"],
+      "aggtotal": 5.931
+    },
+    {
+      "rate": 0.0333,
+      "quantity": 5.43108191,
+      "total": 0.1809,
+      "exchanges": ["bittrex"],
+      "aggtotal": 6.1119
+    },
+    {
+      "rate": 0.03331303,
+      "quantity": 0.28774799,
+      "total": 0.0096,
+      "exchanges": ["bittrex"],
+      "aggtotal": 6.1215
+    },
+    {
+      "rate": 0.03331361,
+      "quantity": 50.21302628,
+      "total": 1.6728,
+      "exchanges": ["bittrex"],
+      "aggtotal": 7.7943
+    },
+    {
+      "rate": 0.033319,
+      "quantity": 0.15435911,
+      "total": 0.0051,
+      "exchanges": ["bittrex"],
+      "aggtotal": 7.7994
+    },
+    {
+      "rate": 0.03333333,
+      "quantity": 0.01538462,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 7.7999
+    },
+    {
+      "rate": 0.03333355,
+      "quantity": 311.2,
+      "total": 10.3734,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.1733
+    },
+    {
+      "rate": 0.03335698,
+      "quantity": 0.02611757,
+      "total": 0.0009,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.1742
+    },
+    {
+      "rate": 0.03336842,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.1754
+    },
+    {
+      "rate": 0.03339224,
+      "quantity": 0.1,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.1787
+    },
+    {
+      "rate": 0.03340605,
+      "quantity": 1.31053885,
+      "total": 0.0438,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.2225
+    },
+    {
+      "rate": 0.03340688,
+      "quantity": 0.60339106,
+      "total": 0.0202,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.2427
+    },
+    {
+      "rate": 0.03344099,
+      "quantity": 5.25182927,
+      "total": 0.1756,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.4183
+    },
+    {
+      "rate": 0.033441,
+      "quantity": 0.20272314,
+      "total": 0.0068,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.4251
+    },
+    {
+      "rate": 0.03345684,
+      "quantity": 0.02349991,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.4259
+    },
+    {
+      "rate": 0.03348283,
+      "quantity": 1.93551523,
+      "total": 0.0648,
+      "exchanges": ["bittrex"],
+      "aggtotal": 18.4907
+    },
+    {
+      "rate": 0.03348284,
+      "quantity": 150.53,
+      "total": 5.0402,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5309
+    },
+    {
+      "rate": 0.03349504,
+      "quantity": 0.04918231,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5325
+    },
+    {
+      "rate": 0.0335,
+      "quantity": 0.51987068,
+      "total": 0.0174,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5499
+    },
+    {
+      "rate": 0.03352091,
+      "quantity": 0.15976631,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5553
+    },
+    {
+      "rate": 0.03354002,
+      "quantity": 0.62400504,
+      "total": 0.0209,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5762
+    },
+    {
+      "rate": 0.03354062,
+      "quantity": 0.06284917,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5783
+    },
+    {
+      "rate": 0.03355758,
+      "quantity": 0.03814677,
+      "total": 0.0013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5796
+    },
+    {
+      "rate": 0.0335598,
+      "quantity": 0.21472659,
+      "total": 0.0072,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5868
+    },
+    {
+      "rate": 0.03356787,
+      "quantity": 0.02241931,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5876
+    },
+    {
+      "rate": 0.03356884,
+      "quantity": 0.02611757,
+      "total": 0.0009,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.5885
+    },
+    {
+      "rate": 0.03358422,
+      "quantity": 4.8,
+      "total": 0.1612,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.7497
+    },
+    {
+      "rate": 0.0336,
+      "quantity": 2.07734758,
+      "total": 0.0698,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 23.8195
+    },
+    {
+      "rate": 0.03361111,
+      "quantity": 0.01538462,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.82
+    },
+    {
+      "rate": 0.03363157,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8212
+    },
+    {
+      "rate": 0.03363677,
+      "quantity": 0.05766828,
+      "total": 0.0019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8231
+    },
+    {
+      "rate": 0.03363702,
+      "quantity": 0.0204811,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8238
+    },
+    {
+      "rate": 0.03363952,
+      "quantity": 0.1055,
+      "total": 0.0035,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8273
+    },
+    {
+      "rate": 0.03365485,
+      "quantity": 0.24673137,
+      "total": 0.0083,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8356
+    },
+    {
+      "rate": 0.03365558,
+      "quantity": 0.06002106,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8376
+    },
+    {
+      "rate": 0.03367167,
+      "quantity": 0.0417996,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.839
+    },
+    {
+      "rate": 0.033683,
+      "quantity": 0.37886966,
+      "total": 0.0128,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8518
+    },
+    {
+      "rate": 0.03369511,
+      "quantity": 0.0182,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8524
+    },
+    {
+      "rate": 0.03369527,
+      "quantity": 0.47,
+      "total": 0.0158,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8682
+    },
+    {
+      "rate": 0.0337,
+      "quantity": 0.4845193,
+      "total": 0.0163,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 23.8845
+    },
+    {
+      "rate": 0.03370021,
+      "quantity": 0.40200047,
+      "total": 0.0135,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.898
+    },
+    {
+      "rate": 0.033703,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.8985
+    },
+    {
+      "rate": 0.03371,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.899
+    },
+    {
+      "rate": 0.03371418,
+      "quantity": 0.0994184,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9024
+    },
+    {
+      "rate": 0.0337155,
+      "quantity": 0.5,
+      "total": 0.0169,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9193
+    },
+    {
+      "rate": 0.03372,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9198
+    },
+    {
+      "rate": 0.03373,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9203
+    },
+    {
+      "rate": 0.03374,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9208
+    },
+    {
+      "rate": 0.03374282,
+      "quantity": 0.06835307,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9231
+    },
+    {
+      "rate": 0.03374449,
+      "quantity": 0.03330239,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9242
+    },
+    {
+      "rate": 0.03375,
+      "quantity": 0.02581272,
+      "total": 0.0009,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 23.9251
+    },
+    {
+      "rate": 0.03375009,
+      "quantity": 0.05293517,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9269
+    },
+    {
+      "rate": 0.03376,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9274
+    },
+    {
+      "rate": 0.0337642,
+      "quantity": 0.0303486,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9284
+    },
+    {
+      "rate": 0.03377,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9289
+    },
+    {
+      "rate": 0.03377511,
+      "quantity": 0.3415,
+      "total": 0.0115,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9404
+    },
+    {
+      "rate": 0.03378,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9409
+    },
+    {
+      "rate": 0.0337807,
+      "quantity": 0.02611757,
+      "total": 0.0009,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9418
+    },
+    {
+      "rate": 0.03378487,
+      "quantity": 0.01745193,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.9424
+    },
+    {
+      "rate": 0.0337863,
+      "quantity": 0.107,
+      "total": 0.0036,
+      "exchanges": ["bittrex"],
+      "aggtotal": 23.946
+    },
+    {
+      "rate": 0.03379,
+      "quantity": 1.01516385,
+      "total": 0.0343,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 23.9803
+    },
+    {
+      "rate": 0.03379262,
+      "quantity": 2.28677057,
+      "total": 0.0773,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.0576
+    },
+    {
+      "rate": 0.03379283,
+      "quantity": 0.03458617,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.0588
+    },
+    {
+      "rate": 0.03379845,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.0593
+    },
+    {
+      "rate": 0.03379995,
+      "quantity": 0.08447469,
+      "total": 0.0029,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.0622
+    },
+    {
+      "rate": 0.0338,
+      "quantity": 5.47260424,
+      "total": 0.185,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 24.2472
+    },
+    {
+      "rate": 0.03380025,
+      "quantity": 0.15844591,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.2526
+    },
+    {
+      "rate": 0.03380877,
+      "quantity": 0.04962478,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.2543
+    },
+    {
+      "rate": 0.03381,
+      "quantity": 0.21975424,
+      "total": 0.0074,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.2617
+    },
+    {
+      "rate": 0.03381001,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.2622
+    },
+    {
+      "rate": 0.03382269,
+      "quantity": 0.93551011,
+      "total": 0.0316,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.2938
+    },
+    {
+      "rate": 0.03382399,
+      "quantity": 0.01549703,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.2943
+    },
+    {
+      "rate": 0.03382747,
+      "quantity": 2.19463746,
+      "total": 0.0742,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.3685
+    },
+    {
+      "rate": 0.03382748,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.369
+    },
+    {
+      "rate": 0.03383237,
+      "quantity": 0.07676442,
+      "total": 0.0026,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.3716
+    },
+    {
+      "rate": 0.03383727,
+      "quantity": 0.39945023,
+      "total": 0.0135,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.3851
+    },
+    {
+      "rate": 0.03383908,
+      "quantity": 0.06429785,
+      "total": 0.0022,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.3873
+    },
+    {
+      "rate": 0.0338396,
+      "quantity": 0.05173643,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.3891
+    },
+    {
+      "rate": 0.03384456,
+      "quantity": 3,
+      "total": 0.1015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.4906
+    },
+    {
+      "rate": 0.03385488,
+      "quantity": 0.2831425,
+      "total": 0.0096,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.5002
+    },
+    {
+      "rate": 0.03385794,
+      "quantity": 1.82962551,
+      "total": 0.0619,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.5621
+    },
+    {
+      "rate": 0.03385795,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.5626
+    },
+    {
+      "rate": 0.03385797,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.5631
+    },
+    {
+      "rate": 0.03386567,
+      "quantity": 0.05002678,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.5648
+    },
+    {
+      "rate": 0.03388707,
+      "quantity": 0.04463833,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.5663
+    },
+    {
+      "rate": 0.03388888,
+      "quantity": 0.01538462,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.5668
+    },
+    {
+      "rate": 0.03389473,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.568
+    },
+    {
+      "rate": 0.0339,
+      "quantity": 6.44559217,
+      "total": 0.2185,
+      "exchanges": ["bittrex", "poloniex"],
+      "aggtotal": 24.7865
+    },
+    {
+      "rate": 0.03391085,
+      "quantity": 0.0311291,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.7876
+    },
+    {
+      "rate": 0.03393269,
+      "quantity": 0.133316,
+      "total": 0.0045,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.7921
+    },
+    {
+      "rate": 0.03393427,
+      "quantity": 0.0463776,
+      "total": 0.0016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.7937
+    },
+    {
+      "rate": 0.03393464,
+      "quantity": 4.53794333,
+      "total": 0.154,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9477
+    },
+    {
+      "rate": 0.03393933,
+      "quantity": 0.17,
+      "total": 0.0058,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9535
+    },
+    {
+      "rate": 0.03395654,
+      "quantity": 0.06904871,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9558
+    },
+    {
+      "rate": 0.0339568,
+      "quantity": 0.0436698,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9573
+    },
+    {
+      "rate": 0.033961,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9578
+    },
+    {
+      "rate": 0.03396605,
+      "quantity": 0.01516385,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9583
+    },
+    {
+      "rate": 0.03397767,
+      "quantity": 0.03140019,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9594
+    },
+    {
+      "rate": 0.03397974,
+      "quantity": 0.0360475,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.9606
+    },
+    {
+      "rate": 0.03398845,
+      "quantity": 0.10013998,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 24.964
+    },
+    {
+      "rate": 0.034,
+      "quantity": 13.38642964,
+      "total": 0.4551,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4191
+    },
+    {
+      "rate": 0.03400019,
+      "quantity": 0.1,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4225
+    },
+    {
+      "rate": 0.03401262,
+      "quantity": 0.05633083,
+      "total": 0.0019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4244
+    },
+    {
+      "rate": 0.034032,
+      "quantity": 0.10020954,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4278
+    },
+    {
+      "rate": 0.03405071,
+      "quantity": 1.21336152,
+      "total": 0.0413,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4691
+    },
+    {
+      "rate": 0.03405865,
+      "quantity": 0.06136675,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.4712
+    },
+    {
+      "rate": 0.03406808,
+      "quantity": 2.97445691,
+      "total": 0.1013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.5725
+    },
+    {
+      "rate": 0.03407173,
+      "quantity": 0.245,
+      "total": 0.0083,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.5808
+    },
+    {
+      "rate": 0.03408194,
+      "quantity": 0.15713638,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.5862
+    },
+    {
+      "rate": 0.0341,
+      "quantity": 2.01503595,
+      "total": 0.0687,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.6549
+    },
+    {
+      "rate": 0.03411109,
+      "quantity": 0.01529998,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.6554
+    },
+    {
+      "rate": 0.0341111,
+      "quantity": 0.01529999,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.6559
+    },
+    {
+      "rate": 0.03411111,
+      "quantity": 0.1,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.6593
+    },
+    {
+      "rate": 0.0341125,
+      "quantity": 0.01530009,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.6598
+    },
+    {
+      "rate": 0.03411309,
+      "quantity": 4.07147272,
+      "total": 0.1389,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.7987
+    },
+    {
+      "rate": 0.03414389,
+      "quantity": 0.0661968,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.801
+    },
+    {
+      "rate": 0.03415789,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8022
+    },
+    {
+      "rate": 0.03416666,
+      "quantity": 0.01538462,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8027
+    },
+    {
+      "rate": 0.03417,
+      "quantity": 0.01530009,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8032
+    },
+    {
+      "rate": 0.0342,
+      "quantity": 0.52620975,
+      "total": 0.018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8212
+    },
+    {
+      "rate": 0.03424157,
+      "quantity": 0.01549703,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8217
+    },
+    {
+      "rate": 0.03425,
+      "quantity": 0.03071837,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8228
+    },
+    {
+      "rate": 0.03425999,
+      "quantity": 0.01754823,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8234
+    },
+    {
+      "rate": 0.03426001,
+      "quantity": 0.01516384,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8239
+    },
+    {
+      "rate": 0.03427,
+      "quantity": 0.01516384,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8244
+    },
+    {
+      "rate": 0.03427071,
+      "quantity": 0.0153,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8249
+    },
+    {
+      "rate": 0.03427383,
+      "quantity": 0.10014537,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8283
+    },
+    {
+      "rate": 0.03429232,
+      "quantity": 0.19,
+      "total": 0.0065,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8348
+    },
+    {
+      "rate": 0.0343,
+      "quantity": 1.1238684,
+      "total": 0.0385,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8733
+    },
+    {
+      "rate": 0.03434849,
+      "quantity": 0.01617247,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8739
+    },
+    {
+      "rate": 0.03435082,
+      "quantity": 0.01617142,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8745
+    },
+    {
+      "rate": 0.03436,
+      "quantity": 0.2,
+      "total": 0.0069,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8814
+    },
+    {
+      "rate": 0.03436596,
+      "quantity": 0.15583772,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.8868
+    },
+    {
+      "rate": 0.03436856,
+      "quantity": 0.52272971,
+      "total": 0.018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.9048
+    },
+    {
+      "rate": 0.03437639,
+      "quantity": 0.01458858,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.9053
+    },
+    {
+      "rate": 0.0344,
+      "quantity": 0.5310089,
+      "total": 0.0183,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.9236
+    },
+    {
+      "rate": 0.03442105,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 25.9248
+    },
+    {
+      "rate": 0.03442204,
+      "quantity": 9.22690053,
+      "total": 0.3176,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2424
+    },
+    {
+      "rate": 0.03442635,
+      "quantity": 0.15051839,
+      "total": 0.0052,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2476
+    },
+    {
+      "rate": 0.03442678,
+      "quantity": 0.05925711,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2496
+    },
+    {
+      "rate": 0.03444256,
+      "quantity": 0.07804635,
+      "total": 0.0027,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2523
+    },
+    {
+      "rate": 0.03444444,
+      "quantity": 0.01538462,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2528
+    },
+    {
+      "rate": 0.0344448,
+      "quantity": 0.04405404,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2543
+    },
+    {
+      "rate": 0.03445936,
+      "quantity": 0.015,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2548
+    },
+    {
+      "rate": 0.03446057,
+      "quantity": 0.01634815,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2554
+    },
+    {
+      "rate": 0.03446315,
+      "quantity": 0.015,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2559
+    },
+    {
+      "rate": 0.03449,
+      "quantity": 0.1,
+      "total": 0.0034,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2593
+    },
+    {
+      "rate": 0.03449792,
+      "quantity": 0.1975,
+      "total": 0.0068,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2661
+    },
+    {
+      "rate": 0.0345,
+      "quantity": 0.85023788,
+      "total": 0.0293,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2954
+    },
+    {
+      "rate": 0.03452,
+      "quantity": 0.02902676,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2964
+    },
+    {
+      "rate": 0.03454326,
+      "quantity": 0.05057288,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.2981
+    },
+    {
+      "rate": 0.03456,
+      "quantity": 0.1,
+      "total": 0.0035,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.3016
+    },
+    {
+      "rate": 0.0345704,
+      "quantity": 4.07147272,
+      "total": 0.1408,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.4424
+    },
+    {
+      "rate": 0.03457361,
+      "quantity": 0.76461032,
+      "total": 0.0264,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.4688
+    },
+    {
+      "rate": 0.03458966,
+      "quantity": 0.018496,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.4694
+    },
+    {
+      "rate": 0.03459631,
+      "quantity": 0.03402699,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.4706
+    },
+    {
+      "rate": 0.03459632,
+      "quantity": 0.01530009,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.4711
+    },
+    {
+      "rate": 0.03459634,
+      "quantity": 0.01530009,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 26.4716
+    },
+    {
+      "rate": 0.0346,
+      "quantity": 15.32640577,
+      "total": 0.5303,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.0019
+    },
+    {
+      "rate": 0.03462264,
+      "quantity": 0.02,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.0026
+    },
+    {
+      "rate": 0.03464265,
+      "quantity": 0.35707053,
+      "total": 0.0124,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.015
+    },
+    {
+      "rate": 0.03464529,
+      "quantity": 9.3,
+      "total": 0.3222,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.3372
+    },
+    {
+      "rate": 0.03465236,
+      "quantity": 0.15454974,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.3426
+    },
+    {
+      "rate": 0.03468421,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.3438
+    },
+    {
+      "rate": 0.0347,
+      "quantity": 0.54764129,
+      "total": 0.019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.3628
+    },
+    {
+      "rate": 0.03471282,
+      "quantity": 0.27614456,
+      "total": 0.0096,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.3724
+    },
+    {
+      "rate": 0.03472222,
+      "quantity": 0.01538462,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.3729
+    },
+    {
+      "rate": 0.03472739,
+      "quantity": 0.2760287,
+      "total": 0.0096,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.3825
+    },
+    {
+      "rate": 0.0347427,
+      "quantity": 0.015,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.383
+    },
+    {
+      "rate": 0.0347444,
+      "quantity": 0.6359672,
+      "total": 0.0221,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4051
+    },
+    {
+      "rate": 0.03475,
+      "quantity": 0.03056472,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4062
+    },
+    {
+      "rate": 0.0348,
+      "quantity": 0.63558738,
+      "total": 0.0221,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4283
+    },
+    {
+      "rate": 0.03480498,
+      "quantity": 0.12007182,
+      "total": 0.0042,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4325
+    },
+    {
+      "rate": 0.03480636,
+      "quantity": 0.06162782,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4346
+    },
+    {
+      "rate": 0.03484413,
+      "quantity": 0.06218338,
+      "total": 0.0022,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4368
+    },
+    {
+      "rate": 0.0349,
+      "quantity": 0.34395576,
+      "total": 0.012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4488
+    },
+    {
+      "rate": 0.03492407,
+      "quantity": 0.01928,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4495
+    },
+    {
+      "rate": 0.03493853,
+      "quantity": 0.01560759,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.45
+    },
+    {
+      "rate": 0.03493961,
+      "quantity": 0.30237428,
+      "total": 0.0106,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4606
+    },
+    {
+      "rate": 0.03493967,
+      "quantity": 0.016891,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4612
+    },
+    {
+      "rate": 0.03494113,
+      "quantity": 0.15327242,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4666
+    },
+    {
+      "rate": 0.03494656,
+      "quantity": 0.095,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4699
+    },
+    {
+      "rate": 0.03494736,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4711
+    },
+    {
+      "rate": 0.034958,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4728
+    },
+    {
+      "rate": 0.03497317,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4745
+    },
+    {
+      "rate": 0.03499273,
+      "quantity": 0.0736328,
+      "total": 0.0026,
+      "exchanges": ["bittrex"],
+      "aggtotal": 27.4771
+    },
+    {
+      "rate": 0.03499679,
+      "quantity": 29.9,
+      "total": 1.0464,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.5235
+    },
+    {
+      "rate": 0.03499964,
+      "quantity": 0.0522532,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.5253
+    },
+    {
+      "rate": 0.035,
+      "quantity": 7.97602539,
+      "total": 0.2792,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.8045
+    },
+    {
+      "rate": 0.03500001,
+      "quantity": 0.01530009,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.805
+    },
+    {
+      "rate": 0.03503574,
+      "quantity": 0.4864986,
+      "total": 0.017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.822
+    },
+    {
+      "rate": 0.03506563,
+      "quantity": 0.15017423,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.8273
+    },
+    {
+      "rate": 0.03508279,
+      "quantity": 0.01928,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.828
+    },
+    {
+      "rate": 0.0351,
+      "quantity": 0.52541306,
+      "total": 0.0184,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.8464
+    },
+    {
+      "rate": 0.03510562,
+      "quantity": 0.24267929,
+      "total": 0.0085,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.8549
+    },
+    {
+      "rate": 0.03510877,
+      "quantity": 0.040852,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.8563
+    },
+    {
+      "rate": 0.03511111,
+      "quantity": 0.15,
+      "total": 0.0053,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.8616
+    },
+    {
+      "rate": 0.03514014,
+      "quantity": 1,
+      "total": 0.0351,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.8967
+    },
+    {
+      "rate": 0.03514935,
+      "quantity": 0.24236651,
+      "total": 0.0085,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.9052
+    },
+    {
+      "rate": 0.03514978,
+      "quantity": 0.01505228,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.9057
+    },
+    {
+      "rate": 0.03516648,
+      "quantity": 0.1,
+      "total": 0.0035,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.9092
+    },
+    {
+      "rate": 0.03517,
+      "quantity": 0.2,
+      "total": 0.007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.9162
+    },
+    {
+      "rate": 0.03518681,
+      "quantity": 0.09230774,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 28.9194
+    },
+    {
+      "rate": 0.03518883,
+      "quantity": 30.38,
+      "total": 1.069,
+      "exchanges": ["bittrex"],
+      "aggtotal": 29.9884
+    },
+    {
+      "rate": 0.0352,
+      "quantity": 3.79455538,
+      "total": 0.1336,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.122
+    },
+    {
+      "rate": 0.03521052,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.1232
+    },
+    {
+      "rate": 0.03523231,
+      "quantity": 0.1520057,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.1286
+    },
+    {
+      "rate": 0.0352583,
+      "quantity": 0.06525597,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.1309
+    },
+    {
+      "rate": 0.0352709,
+      "quantity": 0.01928,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.1316
+    },
+    {
+      "rate": 0.0352814,
+      "quantity": 0.10223238,
+      "total": 0.0036,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.1352
+    },
+    {
+      "rate": 0.0352854,
+      "quantity": 1.97777927,
+      "total": 0.0698,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.205
+    },
+    {
+      "rate": 0.03529331,
+      "quantity": 0.1,
+      "total": 0.0035,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.2085
+    },
+    {
+      "rate": 0.03529557,
+      "quantity": 0.09277142,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.2118
+    },
+    {
+      "rate": 0.0353,
+      "quantity": 0.83176518,
+      "total": 0.0294,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.2412
+    },
+    {
+      "rate": 0.03531588,
+      "quantity": 0.057,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.2432
+    },
+    {
+      "rate": 0.03534852,
+      "quantity": 0.05345801,
+      "total": 0.0019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.2451
+    },
+    {
+      "rate": 0.0354,
+      "quantity": 1.51063122,
+      "total": 0.0535,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.2986
+    },
+    {
+      "rate": 0.03540549,
+      "quantity": 0.09224537,
+      "total": 0.0033,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.3019
+    },
+    {
+      "rate": 0.03545901,
+      "quantity": 0.01928,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.3026
+    },
+    {
+      "rate": 0.03546051,
+      "quantity": 0.46190509,
+      "total": 0.0164,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.319
+    },
+    {
+      "rate": 0.03546691,
+      "quantity": 0.0312635,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.3201
+    },
+    {
+      "rate": 0.03547368,
+      "quantity": 0.03522207,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.3213
+    },
+    {
+      "rate": 0.03547402,
+      "quantity": 1.11726651,
+      "total": 0.0396,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.3609
+    },
+    {
+      "rate": 0.03548,
+      "quantity": 0.35130855,
+      "total": 0.0125,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.3734
+    },
+    {
+      "rate": 0.03549136,
+      "quantity": 2.05051741,
+      "total": 0.0728,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.4462
+    },
+    {
+      "rate": 0.0355,
+      "quantity": 0.34247279,
+      "total": 0.0122,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.4584
+    },
+    {
+      "rate": 0.03551073,
+      "quantity": 0.46106891,
+      "total": 0.0164,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.4748
+    },
+    {
+      "rate": 0.03552593,
+      "quantity": 0.1507494,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.4802
+    },
+    {
+      "rate": 0.03552973,
+      "quantity": 0.14583678,
+      "total": 0.0052,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.4854
+    },
+    {
+      "rate": 0.03555676,
+      "quantity": 1.99739148,
+      "total": 0.071,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.5564
+    },
+    {
+      "rate": 0.03557678,
+      "quantity": 0.46039499,
+      "total": 0.0164,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.5728
+    },
+    {
+      "rate": 0.03558415,
+      "quantity": 0.0435187,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.5743
+    },
+    {
+      "rate": 0.03559999,
+      "quantity": 0.01688771,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.5749
+    },
+    {
+      "rate": 0.0356,
+      "quantity": 0.46224257,
+      "total": 0.0165,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.5914
+    },
+    {
+      "rate": 0.03561773,
+      "quantity": 0.01928,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.5921
+    },
+    {
+      "rate": 0.03562561,
+      "quantity": 0.04679413,
+      "total": 0.0017,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.5938
+    },
+    {
+      "rate": 0.03563918,
+      "quantity": 6.23820964,
+      "total": 0.2223,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.8161
+    },
+    {
+      "rate": 0.03564733,
+      "quantity": 0.06015117,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.8182
+    },
+    {
+      "rate": 0.035653,
+      "quantity": 4.07147272,
+      "total": 0.1452,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.9634
+    },
+    {
+      "rate": 0.03565972,
+      "quantity": 0.30281853,
+      "total": 0.0108,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.9742
+    },
+    {
+      "rate": 0.03568575,
+      "quantity": 0.0999529,
+      "total": 0.0036,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.9778
+    },
+    {
+      "rate": 0.0357,
+      "quantity": 0.19649071,
+      "total": 0.007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.9848
+    },
+    {
+      "rate": 0.03573474,
+      "quantity": 0.02,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.9855
+    },
+    {
+      "rate": 0.03573684,
+      "quantity": 0.03522207,
+      "total": 0.0013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.9868
+    },
+    {
+      "rate": 0.03577645,
+      "quantity": 0.0193074,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.9875
+    },
+    {
+      "rate": 0.03578225,
+      "quantity": 0.07,
+      "total": 0.0025,
+      "exchanges": ["bittrex"],
+      "aggtotal": 30.99
+    },
+    {
+      "rate": 0.03578364,
+      "quantity": 17.24541351,
+      "total": 0.6171,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6071
+    },
+    {
+      "rate": 0.0358,
+      "quantity": 0.11296193,
+      "total": 0.004,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6111
+    },
+    {
+      "rate": 0.03582199,
+      "quantity": 0.14950351,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6165
+    },
+    {
+      "rate": 0.03584039,
+      "quantity": 0.0176705,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6171
+    },
+    {
+      "rate": 0.03585261,
+      "quantity": 0.03839446,
+      "total": 0.0014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6185
+    },
+    {
+      "rate": 0.03585278,
+      "quantity": 0.01501176,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.619
+    },
+    {
+      "rate": 0.03585488,
+      "quantity": 0.39129324,
+      "total": 0.014,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.633
+    },
+    {
+      "rate": 0.0358924,
+      "quantity": 0.04242265,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6345
+    },
+    {
+      "rate": 0.0359,
+      "quantity": 0.23055842,
+      "total": 0.0083,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6428
+    },
+    {
+      "rate": 0.03590107,
+      "quantity": 0.13082505,
+      "total": 0.0047,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6475
+    },
+    {
+      "rate": 0.03598028,
+      "quantity": 0.05566236,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6495
+    },
+    {
+      "rate": 0.03598888,
+      "quantity": 0.07349449,
+      "total": 0.0026,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6521
+    },
+    {
+      "rate": 0.03599,
+      "quantity": 0.2,
+      "total": 0.0072,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.6593
+    },
+    {
+      "rate": 0.03599676,
+      "quantity": 0.02,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.66
+    },
+    {
+      "rate": 0.036,
+      "quantity": 9.40306716,
+      "total": 0.3385,
+      "exchanges": ["bittrex"],
+      "aggtotal": 31.9985
+    },
+    {
+      "rate": 0.0361,
+      "quantity": 0.39102883,
+      "total": 0.0141,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.0126
+    },
+    {
+      "rate": 0.03611111,
+      "quantity": 0.1,
+      "total": 0.0036,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.0162
+    },
+    {
+      "rate": 0.03611503,
+      "quantity": 0.28913043,
+      "total": 0.0104,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.0266
+    },
+    {
+      "rate": 0.03612051,
+      "quantity": 0.14852165,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.032
+    },
+    {
+      "rate": 0.03615794,
+      "quantity": 0.07936982,
+      "total": 0.0029,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.0349
+    },
+    {
+      "rate": 0.03617835,
+      "quantity": 0.07344683,
+      "total": 0.0027,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.0376
+    },
+    {
+      "rate": 0.0362,
+      "quantity": 0.61839335,
+      "total": 0.0224,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.06
+    },
+    {
+      "rate": 0.03620841,
+      "quantity": 0.20022839,
+      "total": 0.0072,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.0672
+    },
+    {
+      "rate": 0.03622457,
+      "quantity": 0.50195251,
+      "total": 0.0182,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.0854
+    },
+    {
+      "rate": 0.03627775,
+      "quantity": 0.5,
+      "total": 0.0181,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.1035
+    },
+    {
+      "rate": 0.0363,
+      "quantity": 0.68244899,
+      "total": 0.0248,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.1283
+    },
+    {
+      "rate": 0.03631205,
+      "quantity": 0.04196402,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.1298
+    },
+    {
+      "rate": 0.03632984,
+      "quantity": 0.15,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.1352
+    },
+    {
+      "rate": 0.03635,
+      "quantity": 0.23819154,
+      "total": 0.0087,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.1439
+    },
+    {
+      "rate": 0.0363643,
+      "quantity": 2.00000002,
+      "total": 0.0727,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.2166
+    },
+    {
+      "rate": 0.03637359,
+      "quantity": 0.08083137,
+      "total": 0.0029,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.2195
+    },
+    {
+      "rate": 0.0363845,
+      "quantity": 15.2,
+      "total": 0.553,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.7725
+    },
+    {
+      "rate": 0.0364,
+      "quantity": 0.53556842,
+      "total": 0.0195,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.792
+    },
+    {
+      "rate": 0.03642152,
+      "quantity": 0.14852165,
+      "total": 0.0054,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.7974
+    },
+    {
+      "rate": 0.0364262,
+      "quantity": 0.01512928,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.798
+    },
+    {
+      "rate": 0.0365,
+      "quantity": 4.76773964,
+      "total": 0.174,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.972
+    },
+    {
+      "rate": 0.03652829,
+      "quantity": 0.15,
+      "total": 0.0055,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.9775
+    },
+    {
+      "rate": 0.03656984,
+      "quantity": 0.01438522,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 32.978
+    },
+    {
+      "rate": 0.03657398,
+      "quantity": 1.21665194,
+      "total": 0.0445,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.0225
+    },
+    {
+      "rate": 0.03657648,
+      "quantity": 0.96256825,
+      "total": 0.0352,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.0577
+    },
+    {
+      "rate": 0.0366,
+      "quantity": 1.03737906,
+      "total": 0.038,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.0957
+    },
+    {
+      "rate": 0.036654,
+      "quantity": 0.34663585,
+      "total": 0.0127,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.1084
+    },
+    {
+      "rate": 0.03667007,
+      "quantity": 0.029876,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.1095
+    },
+    {
+      "rate": 0.03667147,
+      "quantity": 0.08644386,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.1127
+    },
+    {
+      "rate": 0.03669726,
+      "quantity": 0.58539994,
+      "total": 0.0215,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.1342
+    },
+    {
+      "rate": 0.0367,
+      "quantity": 0.1990535,
+      "total": 0.0073,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.1415
+    },
+    {
+      "rate": 0.03672505,
+      "quantity": 0.14852165,
+      "total": 0.0055,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.147
+    },
+    {
+      "rate": 0.03674,
+      "quantity": 0.05865937,
+      "total": 0.0022,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.1492
+    },
+    {
+      "rate": 0.03678117,
+      "quantity": 0.61832425,
+      "total": 0.0227,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.1719
+    },
+    {
+      "rate": 0.0368,
+      "quantity": 1.96033058,
+      "total": 0.0721,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.244
+    },
+    {
+      "rate": 0.03688,
+      "quantity": 0.1980133,
+      "total": 0.0073,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.2513
+    },
+    {
+      "rate": 0.03688714,
+      "quantity": 3.08287541,
+      "total": 0.1137,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.365
+    },
+    {
+      "rate": 0.03688799,
+      "quantity": 0.0203,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.3657
+    },
+    {
+      "rate": 0.03689994,
+      "quantity": 1.52219345,
+      "total": 0.0562,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.4219
+    },
+    {
+      "rate": 0.0369,
+      "quantity": 5.52923722,
+      "total": 0.204,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6259
+    },
+    {
+      "rate": 0.03695,
+      "quantity": 1.23839437,
+      "total": 0.0458,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6717
+    },
+    {
+      "rate": 0.0369664,
+      "quantity": 0.29890934,
+      "total": 0.011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.6827
+    },
+    {
+      "rate": 0.0369754,
+      "quantity": 0.48615067,
+      "total": 0.018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7007
+    },
+    {
+      "rate": 0.03698023,
+      "quantity": 0.05255523,
+      "total": 0.0019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7026
+    },
+    {
+      "rate": 0.03698024,
+      "quantity": 0.71119462,
+      "total": 0.0263,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7289
+    },
+    {
+      "rate": 0.03699858,
+      "quantity": 0.05,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7307
+    },
+    {
+      "rate": 0.03699999,
+      "quantity": 1,
+      "total": 0.037,
+      "exchanges": ["bittrex"],
+      "aggtotal": 33.7677
+    },
+    {
+      "rate": 0.037,
+      "quantity": 10.74627173,
+      "total": 0.3976,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.1653
+    },
+    {
+      "rate": 0.03702078,
+      "quantity": 0.3288,
+      "total": 0.0122,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.1775
+    },
+    {
+      "rate": 0.0370311,
+      "quantity": 0.14852165,
+      "total": 0.0055,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.183
+    },
+    {
+      "rate": 0.0370327,
+      "quantity": 0.81001989,
+      "total": 0.03,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.213
+    },
+    {
+      "rate": 0.0371,
+      "quantity": 1.22668976,
+      "total": 0.0455,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.2585
+    },
+    {
+      "rate": 0.03710831,
+      "quantity": 0.06024072,
+      "total": 0.0022,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.2607
+    },
+    {
+      "rate": 0.03711111,
+      "quantity": 0.1,
+      "total": 0.0037,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.2644
+    },
+    {
+      "rate": 0.03711889,
+      "quantity": 0.02,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.2651
+    },
+    {
+      "rate": 0.03715,
+      "quantity": 2.66547345,
+      "total": 0.099,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.3641
+    },
+    {
+      "rate": 0.03715186,
+      "quantity": 0.2,
+      "total": 0.0074,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.3715
+    },
+    {
+      "rate": 0.0372,
+      "quantity": 1.5645527,
+      "total": 0.0582,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4297
+    },
+    {
+      "rate": 0.0373,
+      "quantity": 0.30763411,
+      "total": 0.0115,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4412
+    },
+    {
+      "rate": 0.03730123,
+      "quantity": 0.01426449,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4417
+    },
+    {
+      "rate": 0.0373397,
+      "quantity": 0.14852165,
+      "total": 0.0055,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4472
+    },
+    {
+      "rate": 0.03734633,
+      "quantity": 0.18605524,
+      "total": 0.0069,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4541
+    },
+    {
+      "rate": 0.03739492,
+      "quantity": 0.04767877,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4559
+    },
+    {
+      "rate": 0.03739999,
+      "quantity": 0.01607493,
+      "total": 0.0006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4565
+    },
+    {
+      "rate": 0.0374,
+      "quantity": 0.3051298,
+      "total": 0.0114,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.4679
+    },
+    {
+      "rate": 0.0375,
+      "quantity": 2.15074434,
+      "total": 0.0807,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.5486
+    },
+    {
+      "rate": 0.03751582,
+      "quantity": 0.05751136,
+      "total": 0.0022,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.5508
+    },
+    {
+      "rate": 0.03757392,
+      "quantity": 0.19909173,
+      "total": 0.0075,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.5583
+    },
+    {
+      "rate": 0.0376,
+      "quantity": 6.28538088,
+      "total": 0.2363,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.7946
+    },
+    {
+      "rate": 0.03762487,
+      "quantity": 0.04679414,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.7964
+    },
+    {
+      "rate": 0.03765087,
+      "quantity": 0.14852165,
+      "total": 0.0056,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.802
+    },
+    {
+      "rate": 0.0376557,
+      "quantity": 0.02687508,
+      "total": 0.001,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.803
+    },
+    {
+      "rate": 0.03768992,
+      "quantity": 0.3,
+      "total": 0.0113,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8143
+    },
+    {
+      "rate": 0.0377,
+      "quantity": 1.00121898,
+      "total": 0.0377,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.852
+    },
+    {
+      "rate": 0.0377321,
+      "quantity": 0.061832,
+      "total": 0.0023,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8543
+    },
+    {
+      "rate": 0.03774002,
+      "quantity": 0.13757076,
+      "total": 0.0052,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.8595
+    },
+    {
+      "rate": 0.03777088,
+      "quantity": 0.039574,
+      "total": 0.0015,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.861
+    },
+    {
+      "rate": 0.0377895,
+      "quantity": 0.05303108,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 34.863
+    },
+    {
+      "rate": 0.037791,
+      "quantity": 5.36003157,
+      "total": 0.2026,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.0656
+    },
+    {
+      "rate": 0.0378,
+      "quantity": 0.13768141,
+      "total": 0.0052,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.0708
+    },
+    {
+      "rate": 0.03783,
+      "quantity": 1.82,
+      "total": 0.0689,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1397
+    },
+    {
+      "rate": 0.03786173,
+      "quantity": 0.50233584,
+      "total": 0.019,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1587
+    },
+    {
+      "rate": 0.03787311,
+      "quantity": 0.0132903,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1592
+    },
+    {
+      "rate": 0.0379,
+      "quantity": 0.1710122,
+      "total": 0.0065,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1657
+    },
+    {
+      "rate": 0.03796464,
+      "quantity": 0.14852165,
+      "total": 0.0056,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.1713
+    },
+    {
+      "rate": 0.03798299,
+      "quantity": 4.31609203,
+      "total": 0.1639,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.3352
+    },
+    {
+      "rate": 0.03798995,
+      "quantity": 0.04767877,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.337
+    },
+    {
+      "rate": 0.038,
+      "quantity": 14.80953571,
+      "total": 0.5628,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.8998
+    },
+    {
+      "rate": 0.03804725,
+      "quantity": 0.01366711,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.9003
+    },
+    {
+      "rate": 0.03804894,
+      "quantity": 0.96918855,
+      "total": 0.0369,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.9372
+    },
+    {
+      "rate": 0.03805515,
+      "quantity": 0.47382352,
+      "total": 0.018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.9552
+    },
+    {
+      "rate": 0.03806559,
+      "quantity": 0.02132305,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.956
+    },
+    {
+      "rate": 0.0381,
+      "quantity": 1.06023929,
+      "total": 0.0404,
+      "exchanges": ["bittrex"],
+      "aggtotal": 35.9964
+    },
+    {
+      "rate": 0.03811111,
+      "quantity": 0.1,
+      "total": 0.0038,
+      "exchanges": ["bittrex"],
+      "aggtotal": 36.0002
+    },
+    {
+      "rate": 0.03813533,
+      "quantity": 3,
+      "total": 0.1144,
+      "exchanges": ["bittrex"],
+      "aggtotal": 36.1146
+    },
+    {
+      "rate": 0.0382,
+      "quantity": 35.46172092,
+      "total": 1.3546,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.4692
+    },
+    {
+      "rate": 0.038239,
+      "quantity": 1.59853659,
+      "total": 0.0611,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5303
+    },
+    {
+      "rate": 0.03825507,
+      "quantity": 0.1999735,
+      "total": 0.0077,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.538
+    },
+    {
+      "rate": 0.03826497,
+      "quantity": 0.10668967,
+      "total": 0.0041,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5421
+    },
+    {
+      "rate": 0.03828101,
+      "quantity": 0.14852165,
+      "total": 0.0057,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5478
+    },
+    {
+      "rate": 0.03829202,
+      "quantity": 0.06964248,
+      "total": 0.0027,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5505
+    },
+    {
+      "rate": 0.0383,
+      "quantity": 0.61513303,
+      "total": 0.0236,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5741
+    },
+    {
+      "rate": 0.0384,
+      "quantity": 0.52006127,
+      "total": 0.02,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.5941
+    },
+    {
+      "rate": 0.0384922,
+      "quantity": 0.79937744,
+      "total": 0.0308,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.6249
+    },
+    {
+      "rate": 0.0385,
+      "quantity": 1.53061858,
+      "total": 0.0589,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.6838
+    },
+    {
+      "rate": 0.03850011,
+      "quantity": 0.0761974,
+      "total": 0.0029,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.6867
+    },
+    {
+      "rate": 0.0385135,
+      "quantity": 0.5,
+      "total": 0.0193,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.706
+    },
+    {
+      "rate": 0.03853445,
+      "quantity": 5,
+      "total": 0.1927,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.8987
+    },
+    {
+      "rate": 0.0386,
+      "quantity": 0.26504331,
+      "total": 0.0102,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.9089
+    },
+    {
+      "rate": 0.03860004,
+      "quantity": 0.14852165,
+      "total": 0.0057,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.9146
+    },
+    {
+      "rate": 0.03863402,
+      "quantity": 1.7205,
+      "total": 0.0665,
+      "exchanges": ["bittrex"],
+      "aggtotal": 37.9811
+    },
+    {
+      "rate": 0.03868686,
+      "quantity": 13.34334756,
+      "total": 0.5162,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.4973
+    },
+    {
+      "rate": 0.0387,
+      "quantity": 0.64438692,
+      "total": 0.0249,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.5222
+    },
+    {
+      "rate": 0.03872922,
+      "quantity": 0.1086612,
+      "total": 0.0042,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.5264
+    },
+    {
+      "rate": 0.03873001,
+      "quantity": 0.1,
+      "total": 0.0039,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.5303
+    },
+    {
+      "rate": 0.03877724,
+      "quantity": 1.45000015,
+      "total": 0.0562,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.5865
+    },
+    {
+      "rate": 0.03878324,
+      "quantity": 1.2,
+      "total": 0.0465,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.633
+    },
+    {
+      "rate": 0.0388,
+      "quantity": 0.07081478,
+      "total": 0.0027,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.6357
+    },
+    {
+      "rate": 0.03880743,
+      "quantity": 0.478,
+      "total": 0.0185,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.6542
+    },
+    {
+      "rate": 0.03888993,
+      "quantity": 2.51002568,
+      "total": 0.0976,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.7518
+    },
+    {
+      "rate": 0.0389,
+      "quantity": 0.03406314,
+      "total": 0.0013,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.7531
+    },
+    {
+      "rate": 0.0389002,
+      "quantity": 0.2,
+      "total": 0.0078,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.7609
+    },
+    {
+      "rate": 0.03892171,
+      "quantity": 0.14852165,
+      "total": 0.0058,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.7667
+    },
+    {
+      "rate": 0.03898776,
+      "quantity": 0.10668968,
+      "total": 0.0042,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.7709
+    },
+    {
+      "rate": 0.03899,
+      "quantity": 5,
+      "total": 0.1949,
+      "exchanges": ["bittrex"],
+      "aggtotal": 38.9658
+    },
+    {
+      "rate": 0.039,
+      "quantity": 35.51813832,
+      "total": 1.3852,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.351
+    },
+    {
+      "rate": 0.0390296,
+      "quantity": 0.04556213,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.3528
+    },
+    {
+      "rate": 0.03906731,
+      "quantity": 0.01898445,
+      "total": 0.0007,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.3535
+    },
+    {
+      "rate": 0.03909843,
+      "quantity": 0.32002874,
+      "total": 0.0125,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.366
+    },
+    {
+      "rate": 0.0391,
+      "quantity": 0.0296625,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.3672
+    },
+    {
+      "rate": 0.03911111,
+      "quantity": 0.1,
+      "total": 0.0039,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.3711
+    },
+    {
+      "rate": 0.03913,
+      "quantity": 2.84164246,
+      "total": 0.1112,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.4823
+    },
+    {
+      "rate": 0.03913832,
+      "quantity": 0.50992113,
+      "total": 0.02,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.5023
+    },
+    {
+      "rate": 0.0392,
+      "quantity": 0.22031314,
+      "total": 0.0086,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.5109
+    },
+    {
+      "rate": 0.03924187,
+      "quantity": 0.155,
+      "total": 0.0061,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.517
+    },
+    {
+      "rate": 0.03924607,
+      "quantity": 0.14852165,
+      "total": 0.0058,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.5228
+    },
+    {
+      "rate": 0.03929,
+      "quantity": 3,
+      "total": 0.1179,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.6407
+    },
+    {
+      "rate": 0.0393,
+      "quantity": 0.75296907,
+      "total": 0.0296,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.6703
+    },
+    {
+      "rate": 0.03934123,
+      "quantity": 1.22888979,
+      "total": 0.0483,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.7186
+    },
+    {
+      "rate": 0.03935628,
+      "quantity": 0.18705108,
+      "total": 0.0074,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.726
+    },
+    {
+      "rate": 0.03936478,
+      "quantity": 2.00000001,
+      "total": 0.0787,
+      "exchanges": ["bittrex"],
+      "aggtotal": 40.8047
+    },
+    {
+      "rate": 0.0394,
+      "quantity": 5.94197679,
+      "total": 0.2341,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.0388
+    },
+    {
+      "rate": 0.0394052,
+      "quantity": 0.12855833,
+      "total": 0.0051,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.0439
+    },
+    {
+      "rate": 0.0395,
+      "quantity": 0.17936486,
+      "total": 0.0071,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.051
+    },
+    {
+      "rate": 0.03951451,
+      "quantity": 0.09728468,
+      "total": 0.0038,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.0548
+    },
+    {
+      "rate": 0.03957052,
+      "quantity": 0.04423522,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.0566
+    },
+    {
+      "rate": 0.03957313,
+      "quantity": 0.14852165,
+      "total": 0.0059,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.0625
+    },
+    {
+      "rate": 0.039585,
+      "quantity": 0.33,
+      "total": 0.0131,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.0756
+    },
+    {
+      "rate": 0.0396,
+      "quantity": 0.684366,
+      "total": 0.0271,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.1027
+    },
+    {
+      "rate": 0.03961744,
+      "quantity": 0.04588611,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.1045
+    },
+    {
+      "rate": 0.03963187,
+      "quantity": 0.22934367,
+      "total": 0.0091,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.1136
+    },
+    {
+      "rate": 0.0397,
+      "quantity": 0.14402465,
+      "total": 0.0057,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.1193
+    },
+    {
+      "rate": 0.03975,
+      "quantity": 0.05104766,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.1213
+    },
+    {
+      "rate": 0.03975376,
+      "quantity": 0.99235967,
+      "total": 0.0395,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.1608
+    },
+    {
+      "rate": 0.0398,
+      "quantity": 1.97242947,
+      "total": 0.0785,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.2393
+    },
+    {
+      "rate": 0.039832,
+      "quantity": 1.13824149,
+      "total": 0.0453,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.2846
+    },
+    {
+      "rate": 0.03989858,
+      "quantity": 0.05,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.2866
+    },
+    {
+      "rate": 0.0399,
+      "quantity": 1.26009094,
+      "total": 0.0503,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.3369
+    },
+    {
+      "rate": 0.03990291,
+      "quantity": 0.14852165,
+      "total": 0.0059,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.3428
+    },
+    {
+      "rate": 0.03993069,
+      "quantity": 0.61352898,
+      "total": 0.0245,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.3673
+    },
+    {
+      "rate": 0.03995599,
+      "quantity": 0.01251378,
+      "total": 0.0005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.3678
+    },
+    {
+      "rate": 0.03998692,
+      "quantity": 0.06,
+      "total": 0.0024,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.3702
+    },
+    {
+      "rate": 0.03999467,
+      "quantity": 0.20765106,
+      "total": 0.0083,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.3785
+    },
+    {
+      "rate": 0.03999999,
+      "quantity": 0.02039661,
+      "total": 0.0008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 41.3793
+    },
+    {
+      "rate": 0.04,
+      "quantity": 73.22766274,
+      "total": 2.9291,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.3084
+    },
+    {
+      "rate": 0.04004036,
+      "quantity": 0.05180621,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.3105
+    },
+    {
+      "rate": 0.04009304,
+      "quantity": 0.15711207,
+      "total": 0.0063,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.3168
+    },
+    {
+      "rate": 0.0401,
+      "quantity": 8.22387761,
+      "total": 0.3298,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.6466
+    },
+    {
+      "rate": 0.04011001,
+      "quantity": 0.06657303,
+      "total": 0.0027,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.6493
+    },
+    {
+      "rate": 0.04012091,
+      "quantity": 0.24462229,
+      "total": 0.0098,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.6591
+    },
+    {
+      "rate": 0.04012925,
+      "quantity": 0.5,
+      "total": 0.0201,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.6792
+    },
+    {
+      "rate": 0.04013616,
+      "quantity": 0.062,
+      "total": 0.0025,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.6817
+    },
+    {
+      "rate": 0.040176,
+      "quantity": 0.234,
+      "total": 0.0094,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.6911
+    },
+    {
+      "rate": 0.0401809,
+      "quantity": 0.2,
+      "total": 0.008,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.6991
+    },
+    {
+      "rate": 0.04018851,
+      "quantity": 0.332,
+      "total": 0.0133,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.7124
+    },
+    {
+      "rate": 0.0402,
+      "quantity": 1.21428709,
+      "total": 0.0488,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.7612
+    },
+    {
+      "rate": 0.04023266,
+      "quantity": 2.501,
+      "total": 0.1006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.8618
+    },
+    {
+      "rate": 0.04023545,
+      "quantity": 0.14852165,
+      "total": 0.006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 44.8678
+    },
+    {
+      "rate": 0.0402592,
+      "quantity": 9.31677019,
+      "total": 0.3751,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.2429
+    },
+    {
+      "rate": 0.0403,
+      "quantity": 3.07721245,
+      "total": 0.124,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.3669
+    },
+    {
+      "rate": 0.04032252,
+      "quantity": 0.5,
+      "total": 0.0202,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.3871
+    },
+    {
+      "rate": 0.040348,
+      "quantity": 0.07127461,
+      "total": 0.0029,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.39
+    },
+    {
+      "rate": 0.04035,
+      "quantity": 0.1188,
+      "total": 0.0048,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.3948
+    },
+    {
+      "rate": 0.04035892,
+      "quantity": 0.02926021,
+      "total": 0.0012,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.396
+    },
+    {
+      "rate": 0.04037466,
+      "quantity": 0.05,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.398
+    },
+    {
+      "rate": 0.04039101,
+      "quantity": 0.39577283,
+      "total": 0.016,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.414
+    },
+    {
+      "rate": 0.0404,
+      "quantity": 0.53433728,
+      "total": 0.0216,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.4356
+    },
+    {
+      "rate": 0.04042489,
+      "quantity": 0.27081712,
+      "total": 0.0109,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.4465
+    },
+    {
+      "rate": 0.04042535,
+      "quantity": 0.07,
+      "total": 0.0028,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.4493
+    },
+    {
+      "rate": 0.04042834,
+      "quantity": 0.29984563,
+      "total": 0.0121,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.4614
+    },
+    {
+      "rate": 0.04043122,
+      "quantity": 1.82137397,
+      "total": 0.0736,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.535
+    },
+    {
+      "rate": 0.04045214,
+      "quantity": 0.05104767,
+      "total": 0.0021,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.5371
+    },
+    {
+      "rate": 0.04045836,
+      "quantity": 0.04423522,
+      "total": 0.0018,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.5389
+    },
+    {
+      "rate": 0.04047669,
+      "quantity": 0.02743498,
+      "total": 0.0011,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.54
+    },
+    {
+      "rate": 0.0405,
+      "quantity": 0.07789282,
+      "total": 0.0032,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.5432
+    },
+    {
+      "rate": 0.04057075,
+      "quantity": 0.14852165,
+      "total": 0.006,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.5492
+    },
+    {
+      "rate": 0.0405859,
+      "quantity": 0.12336582,
+      "total": 0.005,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.5542
+    },
+    {
+      "rate": 0.04059263,
+      "quantity": 0.17440868,
+      "total": 0.0071,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.5613
+    },
+    {
+      "rate": 0.0406,
+      "quantity": 0.91453375,
+      "total": 0.0371,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.5984
+    },
+    {
+      "rate": 0.04061199,
+      "quantity": 0.05,
+      "total": 0.002,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.6004
+    },
+    {
+      "rate": 0.0406465,
+      "quantity": 0.27194412,
+      "total": 0.0111,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.6115
+    },
+    {
+      "rate": 0.04064652,
+      "quantity": 0.26827187,
+      "total": 0.0109,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.6224
+    },
+    {
+      "rate": 0.04065315,
+      "quantity": 0.9867,
+      "total": 0.0401,
+      "exchanges": ["bittrex"],
+      "aggtotal": 45.6625
+    },
+    {
+      "rate": 0.03312799,
+      "quantity": 3.609985,
+      "total": 0.1196,
+      "exchanges": ["poloniex"],
+      "aggtotal": 45.7821
+    },
+    {
+      "rate": 0.033128,
+      "quantity": 52.904,
+      "total": 1.7526,
+      "exchanges": ["poloniex"],
+      "aggtotal": 47.5347
+    },
+    {
+      "rate": 0.03313616,
+      "quantity": 53.1,
+      "total": 1.7595,
+      "exchanges": ["poloniex"],
+      "aggtotal": 49.2942
+    },
+    {
+      "rate": 0.03313687,
+      "quantity": 36.1,
+      "total": 1.1962,
+      "exchanges": ["poloniex"],
+      "aggtotal": 50.4904
+    },
+    {
+      "rate": 0.03314569,
+      "quantity": 4.57911168,
+      "total": 0.1518,
+      "exchanges": ["poloniex"],
+      "aggtotal": 50.6422
+    },
+    {
+      "rate": 0.0331457,
+      "quantity": 6.03698264,
+      "total": 0.2001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 50.8423
+    },
+    {
+      "rate": 0.03314835,
+      "quantity": 0.00048011,
+      "total": 0,
+      "exchanges": ["poloniex"],
+      "aggtotal": 50.8423
+    },
+    {
+      "rate": 0.03315085,
+      "quantity": 6.03922744,
+      "total": 0.2002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 51.0425
+    },
+    {
+      "rate": 0.03315086,
+      "quantity": 6.03871902,
+      "total": 0.2002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 51.2427
+    },
+    {
+      "rate": 0.03315087,
+      "quantity": 34.3,
+      "total": 1.1371,
+      "exchanges": ["poloniex"],
+      "aggtotal": 52.3798
+    },
+    {
+      "rate": 0.03315343,
+      "quantity": 0.150421,
+      "total": 0.005,
+      "exchanges": ["poloniex"],
+      "aggtotal": 52.3848
+    },
+    {
+      "rate": 0.03315799,
+      "quantity": 2.75,
+      "total": 0.0912,
+      "exchanges": ["poloniex"],
+      "aggtotal": 52.476
+    },
+    {
+      "rate": 0.033158,
+      "quantity": 1.455,
+      "total": 0.0482,
+      "exchanges": ["poloniex"],
+      "aggtotal": 52.5242
+    },
+    {
+      "rate": 0.03316414,
+      "quantity": 34,
+      "total": 1.1276,
+      "exchanges": ["poloniex"],
+      "aggtotal": 53.6518
+    },
+    {
+      "rate": 0.033165,
+      "quantity": 1.5,
+      "total": 0.0497,
+      "exchanges": ["poloniex"],
+      "aggtotal": 53.7015
+    },
+    {
+      "rate": 0.033173,
+      "quantity": 1.545,
+      "total": 0.0513,
+      "exchanges": ["poloniex"],
+      "aggtotal": 53.7528
+    },
+    {
+      "rate": 0.0331758,
+      "quantity": 16.2,
+      "total": 0.5374,
+      "exchanges": ["poloniex"],
+      "aggtotal": 54.2902
+    },
+    {
+      "rate": 0.03318399,
+      "quantity": 8.4,
+      "total": 0.2787,
+      "exchanges": ["poloniex"],
+      "aggtotal": 54.5689
+    },
+    {
+      "rate": 0.03318649,
+      "quantity": 0.250919,
+      "total": 0.0083,
+      "exchanges": ["poloniex"],
+      "aggtotal": 54.5772
+    },
+    {
+      "rate": 0.03318999,
+      "quantity": 30,
+      "total": 0.9957,
+      "exchanges": ["poloniex"],
+      "aggtotal": 55.5729
+    },
+    {
+      "rate": 0.03319032,
+      "quantity": 26,
+      "total": 0.8629,
+      "exchanges": ["poloniex"],
+      "aggtotal": 56.4358
+    },
+    {
+      "rate": 0.03319996,
+      "quantity": 0.013,
+      "total": 0.0004,
+      "exchanges": ["poloniex"],
+      "aggtotal": 56.4362
+    },
+    {
+      "rate": 0.03320433,
+      "quantity": 31.6,
+      "total": 1.0493,
+      "exchanges": ["poloniex"],
+      "aggtotal": 57.4855
+    },
+    {
+      "rate": 0.03321612,
+      "quantity": 28.43,
+      "total": 0.9443,
+      "exchanges": ["poloniex"],
+      "aggtotal": 58.4298
+    },
+    {
+      "rate": 0.0332215,
+      "quantity": 0.09896839,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 58.4331
+    },
+    {
+      "rate": 0.03325019,
+      "quantity": 1,
+      "total": 0.0333,
+      "exchanges": ["poloniex"],
+      "aggtotal": 58.4664
+    },
+    {
+      "rate": 0.0332631,
+      "quantity": 281.61,
+      "total": 9.3672,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.8336
+    },
+    {
+      "rate": 0.03328172,
+      "quantity": 0.00402541,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.8337
+    },
+    {
+      "rate": 0.03328183,
+      "quantity": 4.01734884,
+      "total": 0.1337,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.9674
+    },
+    {
+      "rate": 0.03329996,
+      "quantity": 0.01,
+      "total": 0.0003,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.9677
+    },
+    {
+      "rate": 0.03334537,
+      "quantity": 0.0259491,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.9686
+    },
+    {
+      "rate": 0.03335,
+      "quantity": 0.09898662,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.9719
+    },
+    {
+      "rate": 0.03336734,
+      "quantity": 0.3,
+      "total": 0.01,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.9819
+    },
+    {
+      "rate": 0.03337404,
+      "quantity": 0.00466956,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.9821
+    },
+    {
+      "rate": 0.03338236,
+      "quantity": 0.00401328,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 67.9822
+    },
+    {
+      "rate": 0.03339642,
+      "quantity": 0.70714286,
+      "total": 0.0236,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0058
+    },
+    {
+      "rate": 0.03339643,
+      "quantity": 0.17741782,
+      "total": 0.0059,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0117
+    },
+    {
+      "rate": 0.03339996,
+      "quantity": 0.01,
+      "total": 0.0003,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.012
+    },
+    {
+      "rate": 0.03340268,
+      "quantity": 0.0221843,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0127
+    },
+    {
+      "rate": 0.03341987,
+      "quantity": 0.01733936,
+      "total": 0.0006,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0133
+    },
+    {
+      "rate": 0.03343164,
+      "quantity": 0.35796659,
+      "total": 0.012,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0253
+    },
+    {
+      "rate": 0.03347899,
+      "quantity": 1.4139762,
+      "total": 0.0473,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0726
+    },
+    {
+      "rate": 0.033479,
+      "quantity": 0.09860522,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0759
+    },
+    {
+      "rate": 0.0334833,
+      "quantity": 0.00400118,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.076
+    },
+    {
+      "rate": 0.03349996,
+      "quantity": 0.02,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0767
+    },
+    {
+      "rate": 0.03351,
+      "quantity": 0.00934552,
+      "total": 0.0003,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.077
+    },
+    {
+      "rate": 0.0335199,
+      "quantity": 0.00464925,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0772
+    },
+    {
+      "rate": 0.03353164,
+      "quantity": 0.07524334,
+      "total": 0.0025,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.0797
+    },
+    {
+      "rate": 0.03353615,
+      "quantity": 1,
+      "total": 0.0335,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.1132
+    },
+    {
+      "rate": 0.03355102,
+      "quantity": 0.019371,
+      "total": 0.0006,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.1138
+    },
+    {
+      "rate": 0.03355804,
+      "quantity": 0.02578465,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.1147
+    },
+    {
+      "rate": 0.0335584,
+      "quantity": 4.32,
+      "total": 0.145,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.2597
+    },
+    {
+      "rate": 0.03357186,
+      "quantity": 0.02207251,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.2604
+    },
+    {
+      "rate": 0.03358456,
+      "quantity": 0.00398911,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.2605
+    },
+    {
+      "rate": 0.0335992,
+      "quantity": 0.19450899,
+      "total": 0.0065,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.267
+    },
+    {
+      "rate": 0.03359996,
+      "quantity": 0.02,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.2677
+    },
+    {
+      "rate": 0.0336085,
+      "quantity": 0.09822528,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.271
+    },
+    {
+      "rate": 0.03362244,
+      "quantity": 0.3,
+      "total": 0.0101,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.2811
+    },
+    {
+      "rate": 0.03363377,
+      "quantity": 0.17616583,
+      "total": 0.0059,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.287
+    },
+    {
+      "rate": 0.03365291,
+      "quantity": 0.59897334,
+      "total": 0.0202,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3072
+    },
+    {
+      "rate": 0.03365937,
+      "quantity": 0.07022488,
+      "total": 0.0024,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3096
+    },
+    {
+      "rate": 0.0336664,
+      "quantity": 0.00462901,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3098
+    },
+    {
+      "rate": 0.03368613,
+      "quantity": 0.00401328,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3099
+    },
+    {
+      "rate": 0.0336947,
+      "quantity": 0.00398203,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.31
+    },
+    {
+      "rate": 0.03369996,
+      "quantity": 0.01,
+      "total": 0.0003,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3103
+    },
+    {
+      "rate": 0.03373849,
+      "quantity": 0.09784682,
+      "total": 0.0033,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3136
+    },
+    {
+      "rate": 0.0337419,
+      "quantity": 0.02196128,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3143
+    },
+    {
+      "rate": 0.03376411,
+      "quantity": 0.025,
+      "total": 0.0008,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3151
+    },
+    {
+      "rate": 0.03377205,
+      "quantity": 0.02562126,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.316
+    },
+    {
+      "rate": 0.03377557,
+      "quantity": 0.00325449,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3161
+    },
+    {
+      "rate": 0.03378787,
+      "quantity": 0.26892519,
+      "total": 0.0091,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3252
+    },
+    {
+      "rate": 0.033788,
+      "quantity": 0.00401328,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3253
+    },
+    {
+      "rate": 0.03379076,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.327
+    },
+    {
+      "rate": 0.03379276,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3287
+    },
+    {
+      "rate": 0.03379477,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3304
+    },
+    {
+      "rate": 0.03379777,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3321
+    },
+    {
+      "rate": 0.03379996,
+      "quantity": 0.011,
+      "total": 0.0004,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3325
+    },
+    {
+      "rate": 0.03381353,
+      "quantity": 0.00460887,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3327
+    },
+    {
+      "rate": 0.03384021,
+      "quantity": 0.05,
+      "total": 0.0017,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3344
+    },
+    {
+      "rate": 0.0338436,
+      "quantity": 0.025,
+      "total": 0.0008,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3352
+    },
+    {
+      "rate": 0.03384422,
+      "quantity": 0.35721576,
+      "total": 0.0121,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3473
+    },
+    {
+      "rate": 0.03385,
+      "quantity": 0.5,
+      "total": 0.0169,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3642
+    },
+    {
+      "rate": 0.03386191,
+      "quantity": 0.71748074,
+      "total": 0.0243,
+      "exchanges": ["poloniex"],
+      "aggtotal": 68.3885
+    },
+    {
+      "rate": 0.03386429,
+      "quantity": 56.67,
+      "total": 1.9191,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.3076
+    },
+    {
+      "rate": 0.03386686,
+      "quantity": 0.00664278,
+      "total": 0.0002,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.3078
+    },
+    {
+      "rate": 0.03386899,
+      "quantity": 0.10002051,
+      "total": 0.0034,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.3112
+    },
+    {
+      "rate": 0.0338728,
+      "quantity": 0.17492268,
+      "total": 0.0059,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.3171
+    },
+    {
+      "rate": 0.03387755,
+      "quantity": 0.05523086,
+      "total": 0.0019,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.319
+    },
+    {
+      "rate": 0.03388282,
+      "quantity": 1,
+      "total": 0.0339,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.3529
+    },
+    {
+      "rate": 0.03389017,
+      "quantity": 0.00401328,
+      "total": 0.0001,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.353
+    },
+    {
+      "rate": 0.03389795,
+      "quantity": 0.019371,
+      "total": 0.0007,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.3537
+    },
+    {
+      "rate": 0.03389937,
+      "quantity": 2.48412298,
+      "total": 0.0842,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.4379
+    },
+    {
+      "rate": 0.03389996,
+      "quantity": 0.01,
+      "total": 0.0003,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.4382
+    },
+    {
+      "rate": 0.03390001,
+      "quantity": 0.02793509,
+      "total": 0.0009,
+      "exchanges": ["poloniex"],
+      "aggtotal": 70.4391
+    }
+  ]
+}
