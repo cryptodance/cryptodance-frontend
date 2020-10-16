@@ -1,6 +1,6 @@
 import React from "react";
-import { Box, Text, ResponsiveContext, RoutedAnchor, Button } from "grommet";
-import { Money, Favorite } from "grommet-icons";
+import { Box, Text, ResponsiveContext, Anchor, Button } from "grommet";
+import { Money } from "grommet-icons";
 
 const Nav = (props) => {
   const size = React.useContext(ResponsiveContext);
@@ -17,8 +17,8 @@ const Nav = (props) => {
       pad={{ left: "medium", right: "small", vertical: "small" }}
       {...props}
     >
-      <RoutedAnchor
-        path="/"
+      <Anchor
+        href="/"
         icon={<Money size="large" />}
         label={size !== "small" && <Text size="xlarge">CryptoDance</Text>}
       />
