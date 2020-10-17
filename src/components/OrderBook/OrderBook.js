@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { Box, DataTable, ResponsiveContext } from "grommet";
+import ExchangeSummaryCard from "../ExchangeSummaryCard/ExchangeSummaryCard";
 import {
   bidColumns,
   askColumns,
@@ -10,7 +11,7 @@ import {
 } from "./ResponsiveColumns";
 
 function OrderBook(props) {
-  let { bids, asks, step } = props;
+  let { bids, asks, step, exchangesSummary } = props;
 
   const responsiveSize = useContext(ResponsiveContext);
 
@@ -36,14 +37,10 @@ function OrderBook(props) {
   };
 
   return (
-    <Box width="xlarge">
-      <Box>
-        <Box align="center">
-          <Box direction="row">
-            {getDataTable(bids, step, "bids")}
-            {getDataTable(asks, step, "asks")}
-          </Box>
-        </Box>
+    <Box width="xlarge" align="center" margin="medium">
+      <Box direction="row">
+        {getDataTable(bids, step, "bids")}
+        {getDataTable(asks, step, "asks")}
       </Box>
     </Box>
   );
