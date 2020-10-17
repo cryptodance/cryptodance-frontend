@@ -15,6 +15,12 @@ const cryptoDanceThemeLight = deepMerge(grommet, {
 });
 
 const cryptoDanceThemeDark = deepMerge(dark, {
+  global: {
+    colors: {
+      buy: "#6FFFB0",
+      sell: "#FD6FFF",
+    },
+  },
   dataTable: {
     pinned: {
       header: {
