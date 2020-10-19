@@ -10,7 +10,7 @@ import {
 } from "./ResponsiveColumns";
 
 function OrderBook(props) {
-  let { bids, asks, step, exchangesSummary } = props;
+  let { bids, asks, step } = props;
 
   const responsiveSize = useContext(ResponsiveContext);
 
