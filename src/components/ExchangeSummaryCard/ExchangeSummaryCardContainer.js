@@ -3,9 +3,6 @@ import { Box } from "grommet";
 import ExchangeSummaryCard from "./ExchangeSummaryCard";
 import { getExchangesSummary } from "../../api/cryptoDanceApi";
 
-// TODO: fix button margin
-// TODO: change % color and icon
-
 function ExchangeSummaryCardContainer(props) {
   const [exchangesSummary, setExchangesSummary] = useState([]);
 
@@ -19,7 +16,14 @@ function ExchangeSummaryCardContainer(props) {
   }, []);
 
   return (
-    <Box margin="medium" direction="row" wrap gap="medium">
+    <Box
+      align="center"
+      justify="center"
+      margin="medium"
+      direction="row"
+      wrap
+      gap="medium"
+    >
       {exchangesSummary.map((exchangeSummary) => (
         <ExchangeSummaryCard
           key={exchangeSummary.exchange}
