@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Box, DataTable, ResponsiveContext } from "grommet";
+import { Box, DataTable, Heading, ResponsiveContext } from "grommet";
 import {
   bidColumns,
   askColumns,
@@ -37,6 +37,18 @@ function OrderBook(props) {
 
   return (
     <Box width="xlarge" align="center" margin="medium">
+      <Box direction="row" width="xlarge" align="center">
+        <Box align="center" width="50%">
+          <Heading level={3} color="buy">
+            Buy
+          </Heading>
+        </Box>
+        <Box align="center" width="50%">
+          <Heading level={3} color="sell">
+            Sell
+          </Heading>
+        </Box>
+      </Box>
       <Box direction="row">
         {getDataTable(bids, "bids")}
         {getDataTable(asks, "asks")}
