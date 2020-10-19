@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Text, ResponsiveContext, Anchor, Button } from "grommet";
-import { Money } from "grommet-icons";
+import { Money, Github } from "grommet-icons";
 
 const Nav = (props) => {
   const size = React.useContext(ResponsiveContext);
@@ -37,6 +37,7 @@ const Nav = (props) => {
               direction="row"
               gap="small"
             >
+              <Github />
               <Text icon>GitHub</Text>
             </Box>
           )}
