@@ -1,22 +1,24 @@
 import React, { useState, useEffect } from "react";
 import OrderBook from "./OrderBook";
+import Spinner from "../Spinner";
 import { getOrderBooks } from "../../api/cryptoDanceApi";
 
 function OrderBookContainer(props) {
   const [symbol, setSymbol] = useState("btc_eth");
-  const [orderBooks, setOrderBooks] = useState({});
-  const [step, setStep] = useState(1000);
+  const [orderBooks, setOrderBooks] = useState();
 
   useEffect(() => {
-    async function fetchOrderBooks() {
+    const fetchOrderBooks = async () => {
       let orderBooksData = await getOrderBooks(symbol);
       setOrderBooks(orderBooksData);
-    }
+    };
     fetchOrderBooks();
   }, []);
 
-  return (
-    <OrderBook bids={orderBooks.bids} asks={orderBooks.asks} step={step} />
+  return orderBooks ? (
+    <OrderBook bids={orderBooks.bids} asks={orderBooks.asks} />
+  ) : (
+    <Spinner />
   );
 }
 

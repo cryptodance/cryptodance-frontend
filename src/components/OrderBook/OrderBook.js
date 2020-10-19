@@ -14,7 +14,7 @@ function OrderBook(props) {
 
   const responsiveSize = useContext(ResponsiveContext);
 
-  const getDataTable = (data, step, type) => {
+  const getDataTable = (data, type) => {
     let columns = [];
     if (responsiveSize === "small") {
       columns = type === "bids" ? bidColumnsSmall : askColumnsSmall;
@@ -28,7 +28,7 @@ function OrderBook(props) {
       <DataTable
         columns={columns}
         data={data}
-        step={step}
+        step={5}
         primaryKey={false}
         pin
       />
