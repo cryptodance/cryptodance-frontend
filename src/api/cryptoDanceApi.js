@@ -1,7 +1,9 @@
-import orderbooks from "./data.json";
-
 async function getOrderBooks(currencyPair) {
-  return orderbooks;
+  let response = await fetch(
+    "http://cloud.cryptodance.xyz/api/v1/orderbooks/btc_eth"
+  );
+  let orderbook = response.json();
+  return orderbook;
 }
 
 async function getExchangesSummary(currencyPair) {
