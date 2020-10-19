@@ -38,8 +38,8 @@ function OrderBook(props) {
   return (
     <Box width="xlarge" align="center" margin="medium">
       <Box direction="row">
-        {getDataTable(bids, step, "bids")}
-        {getDataTable(asks, step, "asks")}
+        {getDataTable(bids, "bids")}
+        {getDataTable(asks, "asks")}
       </Box>
     </Box>
   );
