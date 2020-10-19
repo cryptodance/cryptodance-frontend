@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 import { Box, DataTable, ResponsiveContext } from "grommet";
-import ExchangeSummaryCard from "../ExchangeSummaryCard/ExchangeSummaryCard";
 import {
   bidColumns,
   askColumns,
