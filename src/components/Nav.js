@@ -23,7 +23,12 @@ const Nav = (props) => {
         label={size !== "small" && <Text size="xlarge">CryptoDance</Text>}
       />
       <Box direction="row" gap="small">
-        <Button plain href="" target="_blank" rel="noreferrer">
+        <Button
+          plain
+          href="https://github.com/cryptodance"
+          target="_blank"
+          rel="noreferrer"
+        >
           {({ hover }) => (
             <Box
               pad={{ vertical: "small", horizontal: "medium" }}
@@ -32,7 +37,7 @@ const Nav = (props) => {
               direction="row"
               gap="small"
             >
-              <Text icon> More</Text>
+              <Text icon>GitHub</Text>
             </Box>
           )}
         </Button>
