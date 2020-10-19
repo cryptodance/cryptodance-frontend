@@ -11,22 +11,22 @@ const bidColumns = [
   },
   {
     property: "aggtotal",
-    header: <Text weight="bold">Agg.Total</Text>,
+    header: <Text weight="bold">Agg.Total (BTC)</Text>,
     align: "end",
   },
   {
     property: "total",
-    header: <Text weight="bold">Total</Text>,
+    header: <Text weight="bold">Total (BTC)</Text>,
     align: "end",
   },
   {
     property: "quantity",
-    header: <Text weight="bold">Quantity</Text>,
+    header: <Text weight="bold">Quantity (ETH)</Text>,
     align: "end",
   },
   {
     property: "rate",
-    header: <Text weight="bold">Price</Text>,
+    header: <Text weight="bold">Price (BTC)</Text>,
     align: "end",
     render: (order) => <Text color="#6FFFB0">{order.rate}</Text>,
   },
@@ -35,20 +35,20 @@ const bidColumns = [
 const askColumns = [
   {
     property: "rate",
-    header: <Text weight="bold">Price</Text>,
+    header: <Text weight="bold">Price (BTC)</Text>,
     render: (order) => <Text color="#FD6FFF">{order.rate}</Text>,
   },
   {
     property: "quantity",
-    header: <Text weight="bold">Quantity</Text>,
+    header: <Text weight="bold">Quantity (ETH)</Text>,
   },
   {
     property: "total",
-    header: <Text weight="bold">Total</Text>,
+    header: <Text weight="bold">Total (BTC)</Text>,
   },
   {
     property: "aggtotal",
-    header: <Text weight="bold">Agg.Total</Text>,
+    header: <Text weight="bold">Agg.Total (BTC)</Text>,
   },
   {
     property: "exchanges",
@@ -72,25 +72,25 @@ const bidColumnsMedium = [
   },
   {
     property: "aggtotal",
-    header: <Text weight="bold">Agg.Total</Text>,
+    header: <Text weight="bold">Agg.Total (BTC)</Text>,
     align: "end",
     render: (order) => <Text size="medium">{order.aggtotal}</Text>,
   },
   {
     property: "total",
-    header: <Text weight="bold">Total</Text>,
+    header: <Text weight="bold">Total (BTC)</Text>,
     align: "end",
     render: (order) => <Text size="medium">{order.total}</Text>,
   },
   {
     property: "quantity",
-    header: <Text weight="bold">Quantity</Text>,
+    header: <Text weight="bold">Quantity (ETH)</Text>,
     align: "end",
     render: (order) => <Text size="medium">{order.quantity.toFixed(3)}</Text>,
   },
   {
     property: "rate",
-    header: <Text weight="bold">Price</Text>,
+    header: <Text weight="bold">Price (BTC)</Text>,
     align: "end",
     render: (order) => (
       <Text size="medium" color="#6FFFB0">
@@ -103,7 +103,7 @@ const bidColumnsMedium = [
 const askColumnsMedium = [
   {
     property: "rate",
-    header: <Text weight="bold">Price</Text>,
+    header: <Text weight="bold">Price (BTC)</Text>,
     render: (order) => (
       <Text size="medium" color="#FD6FFF">
         {order.rate.toFixed(3)}
@@ -112,17 +112,17 @@ const askColumnsMedium = [
   },
   {
     property: "quantity",
-    header: <Text weight="bold">Quantity</Text>,
+    header: <Text weight="bold">Quantity (ETH)</Text>,
     render: (order) => <Text size="medium">{order.quantity.toFixed(3)}</Text>,
   },
   {
     property: "total",
-    header: <Text weight="bold">Total</Text>,
+    header: <Text weight="bold">Total (BTC)</Text>,
     render: (order) => <Text size="medium">{order.total}</Text>,
   },
   {
     property: "aggtotal",
-    header: <Text weight="bold">Agg.Total</Text>,
+    header: <Text weight="bold">Agg.Total (BTC)</Text>,
     render: (order) => <Text size="medium">{order.aggtotal}</Text>,
   },
   {
@@ -151,13 +151,13 @@ const bidColumnsSmall = [
   },
   {
     property: "quantity",
-    header: <Text size="xsmall">Quantity</Text>,
+    header: <Text size="xsmall">Quantity (ETH)</Text>,
     align: "end",
     render: (order) => <Text size="xsmall">{order.quantity.toFixed(3)}</Text>,
   },
   {
     property: "rate",
-    header: <Text size="xsmall">Price</Text>,
+    header: <Text size="xsmall">Price (BTC)</Text>,
     align: "end",
     render: (order) => (
       <Text size="xsmall" color="#6FFFB0">
@@ -170,7 +170,7 @@ const bidColumnsSmall = [
 const askColumnsSmall = [
   {
     property: "rate",
-    header: <Text size="xsmall">Price</Text>,
+    header: <Text size="xsmall">Price (BTC)</Text>,
     render: (order) => (
       <Text size="xsmall" color="#FD6FFF">
         {order.rate.toFixed(3)}
@@ -179,7 +179,7 @@ const askColumnsSmall = [
   },
   {
     property: "quantity",
-    header: <Text size="xsmall">Quantity</Text>,
+    header: <Text size="xsmall">Quantity (ETH)</Text>,
     render: (order) => <Text size="xsmall">{order.quantity.toFixed(3)}</Text>,
   },
   {
