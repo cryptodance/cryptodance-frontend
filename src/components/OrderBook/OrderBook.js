@@ -24,6 +24,11 @@ function OrderBook(props) {
       columns = type === "bids" ? bidColumns : askColumns;
     }
 
+    let sort = {
+      property: "rate",
+      direction: type === "bids" ? "desc" : "asc",
+    };
+
     return (
       <DataTable
         columns={columns}
@@ -31,13 +36,14 @@ function OrderBook(props) {
         step={5}
         primaryKey={false}
         pin
+        sort={sort}
       />
     );
   };
 
   return (
     <Box width="xlarge" align="center" margin="medium">
-      <Box direction="row" width="xlarge" align="center">
+      <Box width="large" direction="row" align="center">
         <Box align="center" width="50%">
           <Heading level={3} color="buy">
             Buy
