@@ -131,7 +131,7 @@ const bidColumnsMedium = [
     align: "end",
     render: (order) =>
       order.exchanges.map((exchange) => (
-        <Text size="small" size="medium" key={exchange}>
+        <Text size="small" key={exchange}>
           {exchange}
         </Text>
       )),
