@@ -4,99 +4,179 @@ import { Text } from "grommet";
 const bidColumns = [
   {
     property: "exchanges",
-    header: <Text weight="bold">Exchange</Text>,
-    align: "end",
-    render: (order) =>
-      order.exchanges.map((exchange) => <Text key={exchange}>{exchange}</Text>),
-  },
-  {
-    property: "aggtotal",
-    header: <Text weight="bold">Agg.Total (BTC)</Text>,
-    align: "end",
-    render: (order) => <Text>{order.aggtotal.toFixed(4)}</Text>,
-  },
-  {
-    property: "total",
-    header: <Text weight="bold">Total (BTC)</Text>,
-    align: "end",
-  },
-  {
-    property: "quantity",
-    header: <Text weight="bold">Quantity (ETH)</Text>,
-    align: "end",
-  },
-  {
-    property: "rate",
-    header: <Text weight="bold">Price (BTC)</Text>,
-    align: "end",
-    render: (order) => <Text color="#6FFFB0">{order.rate}</Text>,
-  },
-];
-
-const askColumns = [
-  {
-    property: "rate",
-    header: <Text weight="bold">Price (BTC)</Text>,
-    render: (order) => <Text color="#FD6FFF">{order.rate}</Text>,
-  },
-  {
-    property: "quantity",
-    header: <Text weight="bold">Quantity (ETH)</Text>,
-  },
-  {
-    property: "total",
-    header: <Text weight="bold">Total (BTC)</Text>,
-  },
-  {
-    property: "aggtotal",
-    header: <Text weight="bold">Agg.Total (BTC)</Text>,
-    render: (order) => <Text>{order.aggtotal.toFixed(4)}</Text>,
-  },
-  {
-    property: "exchanges",
-    header: <Text weight="bold">Exchange</Text>,
-    render: (order) =>
-      order.exchanges.map((exchange) => <Text key={exchange}>{exchange}</Text>),
-  },
-];
-
-const bidColumnsMedium = [
-  {
-    property: "exchanges",
-    header: <Text weight="bold">Exch</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Exchange
+      </Text>
+    ),
     align: "end",
     render: (order) =>
       order.exchanges.map((exchange) => (
-        <Text size="medium" key={exchange}>
+        <Text size="small" key={exchange}>
           {exchange}
         </Text>
       )),
   },
   {
     property: "aggtotal",
-    header: <Text weight="bold">Agg.Total (BTC)</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Agg.Total
+      </Text>
+    ),
     align: "end",
-    render: (order) => <Text size="medium">{order.aggtotal.toFixed(3)}</Text>,
+    render: (order) => <Text size="small">{order.aggtotal.toFixed(4)}</Text>,
   },
   {
     property: "total",
-    header: <Text weight="bold">Total (BTC)</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Total
+      </Text>
+    ),
     align: "end",
-    render: (order) => <Text size="medium">{order.total}</Text>,
+    render: (order) => <Text size="small">{order.total.toFixed(4)}</Text>,
   },
   {
     property: "quantity",
-    header: <Text weight="bold">Quantity (ETH)</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Quantity
+      </Text>
+    ),
     align: "end",
-    render: (order) => <Text size="medium">{order.quantity.toFixed(3)}</Text>,
+    render: (order) => <Text size="small">{order.quantity.toFixed(8)}</Text>,
   },
   {
     property: "rate",
-    header: <Text weight="bold">Price (BTC)</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Price
+      </Text>
+    ),
     align: "end",
     render: (order) => (
-      <Text size="medium" color="#6FFFB0">
-        {order.rate.toFixed(3)}
+      <Text size="small" color="#6FFFB0">
+        {order.rate.toFixed(8)}
+      </Text>
+    ),
+  },
+];
+
+const askColumns = [
+  {
+    property: "rate",
+    header: (
+      <Text size="small" weight="bold">
+        Price
+      </Text>
+    ),
+    render: (order) => (
+      <Text size="small" color="#FD6FFF">
+        {order.rate.toFixed(8)}
+      </Text>
+    ),
+  },
+  {
+    property: "quantity",
+    header: (
+      <Text size="small" weight="bold">
+        Quantity
+      </Text>
+    ),
+    render: (order) => <Text size="small">{order.quantity.toFixed(8)}</Text>,
+  },
+  {
+    property: "total",
+    header: (
+      <Text size="small" weight="bold">
+        Total
+      </Text>
+    ),
+    render: (order) => <Text size="small">{order.total.toFixed(4)}</Text>,
+  },
+  {
+    property: "aggtotal",
+    header: (
+      <Text size="small" weight="bold">
+        Agg.Total
+      </Text>
+    ),
+    render: (order) => <Text size="small">{order.aggtotal.toFixed(4)}</Text>,
+  },
+  {
+    property: "exchanges",
+    header: (
+      <Text size="small" weight="bold">
+        Exchange
+      </Text>
+    ),
+    render: (order) =>
+      order.exchanges.map((exchange) => (
+        <Text size="small" key={exchange}>
+          {exchange}
+        </Text>
+      )),
+  },
+];
+
+const bidColumnsMedium = [
+  {
+    property: "exchanges",
+    header: (
+      <Text size="small" weight="bold">
+        Exch
+      </Text>
+    ),
+    align: "end",
+    render: (order) =>
+      order.exchanges.map((exchange) => (
+        <Text size="small" size="medium" key={exchange}>
+          {exchange}
+        </Text>
+      )),
+  },
+  {
+    property: "aggtotal",
+    header: (
+      <Text size="small" weight="bold">
+        Agg.Total
+      </Text>
+    ),
+    align: "end",
+    render: (order) => <Text size="small">{order.aggtotal.toFixed(3)}</Text>,
+  },
+  {
+    property: "total",
+    header: (
+      <Text size="small" weight="bold">
+        Total
+      </Text>
+    ),
+    align: "end",
+    render: (order) => <Text size="small">{order.total.toFixed(3)}</Text>,
+  },
+  {
+    property: "quantity",
+    header: (
+      <Text size="small" weight="bold">
+        Quantity
+      </Text>
+    ),
+    align: "end",
+    render: (order) => <Text size="small">{order.quantity.toFixed(3)}</Text>,
+  },
+  {
+    property: "rate",
+    header: (
+      <Text size="small" weight="bold">
+        Price
+      </Text>
+    ),
+    align: "end",
+    render: (order) => (
+      <Text size="small" color="#6FFFB0">
+        {order.rate.toFixed(8)}
       </Text>
     ),
   },
@@ -105,34 +185,50 @@ const bidColumnsMedium = [
 const askColumnsMedium = [
   {
     property: "rate",
-    header: <Text weight="bold">Price (BTC)</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Price
+      </Text>
+    ),
     render: (order) => (
-      <Text size="medium" color="#FD6FFF">
-        {order.rate.toFixed(3)}
+      <Text size="small" color="#FD6FFF">
+        {order.rate.toFixed(8)}
       </Text>
     ),
   },
   {
     property: "quantity",
-    header: <Text weight="bold">Quantity (ETH)</Text>,
-    render: (order) => <Text size="medium">{order.quantity.toFixed(3)}</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Quantity
+      </Text>
+    ),
+    render: (order) => <Text size="small">{order.quantity.toFixed(3)}</Text>,
   },
   {
     property: "total",
-    header: <Text weight="bold">Total (BTC)</Text>,
-    render: (order) => <Text size="medium">{order.total}</Text>,
+    header: <Text weight="bold">Total</Text>,
+    render: (order) => <Text size="small">{order.total.toFixed(3)}</Text>,
   },
   {
     property: "aggtotal",
-    header: <Text weight="bold">Agg.Total (BTC)</Text>,
-    render: (order) => <Text size="medium">{order.aggtotal.toFixed(3)}</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Agg.Total
+      </Text>
+    ),
+    render: (order) => <Text size="small">{order.aggtotal.toFixed(3)}</Text>,
   },
   {
     property: "exchanges",
-    header: <Text weight="bold">Exch</Text>,
+    header: (
+      <Text size="small" weight="bold">
+        Exch
+      </Text>
+    ),
     render: (order) =>
       order.exchanges.map((exchange) => (
-        <Text size="medium" key={exchange}>
+        <Text size="small" key={exchange}>
           {exchange}
         </Text>
       )),
@@ -153,13 +249,13 @@ const bidColumnsSmall = [
   },
   {
     property: "quantity",
-    header: <Text size="xsmall">Quantity (ETH)</Text>,
+    header: <Text size="xsmall">Quantity</Text>,
     align: "end",
     render: (order) => <Text size="xsmall">{order.quantity.toFixed(3)}</Text>,
   },
   {
     property: "rate",
-    header: <Text size="xsmall">Price (BTC)</Text>,
+    header: <Text size="xsmall">Price</Text>,
     align: "end",
     render: (order) => (
       <Text size="xsmall" color="#6FFFB0">
@@ -172,7 +268,7 @@ const bidColumnsSmall = [
 const askColumnsSmall = [
   {
     property: "rate",
-    header: <Text size="xsmall">Price (BTC)</Text>,
+    header: <Text size="xsmall">Price</Text>,
     render: (order) => (
       <Text size="xsmall" color="#FD6FFF">
         {order.rate.toFixed(3)}
@@ -181,7 +277,7 @@ const askColumnsSmall = [
   },
   {
     property: "quantity",
-    header: <Text size="xsmall">Quantity (ETH)</Text>,
+    header: <Text size="xsmall">Quantity</Text>,
     render: (order) => <Text size="xsmall">{order.quantity.toFixed(3)}</Text>,
   },
   {
