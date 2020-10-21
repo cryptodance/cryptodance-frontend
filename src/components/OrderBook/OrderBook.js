@@ -33,10 +33,10 @@ function OrderBook(props) {
       <DataTable
         columns={columns}
         data={data}
-        step={5}
+        step={10}
         primaryKey={false}
         sort={sort}
-        size="medium"
+        size="large"
       />
     );
   };
@@ -56,8 +56,8 @@ function OrderBook(props) {
         </Box>
       </Box>
       <Box direction="row">
-        {getDataTable(bids, "bids")}
-        {getDataTable(asks, "asks")}
+        <Box>{getDataTable(bids, "bids")}</Box>
+        <Box>{getDataTable(asks, "asks")}</Box>
       </Box>
     </Box>
   );
