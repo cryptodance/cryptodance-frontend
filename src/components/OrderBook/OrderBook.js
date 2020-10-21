@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Box, DataTable, Heading, ResponsiveContext } from "grommet";
+import { Box, DataTable, Heading, ResponsiveContext, Select } from "grommet";
 import {
   bidColumns,
   askColumns,
@@ -48,6 +48,9 @@ function OrderBook(props) {
           <Heading level={3} color="buy">
             Buy
           </Heading>
+        </Box>
+        <Box>
+          <Select options={["BTC-ETH"]} value="BTC-ETH" />
         </Box>
         <Box align="center" width="50%">
           <Heading level={3} color="sell">
