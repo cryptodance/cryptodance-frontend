@@ -16,7 +16,7 @@ function App() {
 
   return (
     <Grommet theme={THEMES[themeName || "grommet"]}>
-      <Box>
+      <Box height="100vh">
         <Box pad="large">
           <Nav />
         </Box>
