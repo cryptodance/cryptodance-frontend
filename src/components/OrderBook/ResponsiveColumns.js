@@ -13,6 +13,7 @@ const bidColumns = [
     property: "aggtotal",
     header: <Text weight="bold">Agg.Total (BTC)</Text>,
     align: "end",
+    render: (order) => <Text>{order.aggtotal.toFixed(4)}</Text>,
   },
   {
     property: "total",
@@ -49,6 +50,7 @@ const askColumns = [
   {
     property: "aggtotal",
     header: <Text weight="bold">Agg.Total (BTC)</Text>,
+    render: (order) => <Text>{order.aggtotal.toFixed(4)}</Text>,
   },
   {
     property: "exchanges",
@@ -74,7 +76,7 @@ const bidColumnsMedium = [
     property: "aggtotal",
     header: <Text weight="bold">Agg.Total (BTC)</Text>,
     align: "end",
-    render: (order) => <Text size="medium">{order.aggtotal}</Text>,
+    render: (order) => <Text size="medium">{order.aggtotal.toFixed(3)}</Text>,
   },
   {
     property: "total",
@@ -123,7 +125,7 @@ const askColumnsMedium = [
   {
     property: "aggtotal",
     header: <Text weight="bold">Agg.Total (BTC)</Text>,
-    render: (order) => <Text size="medium">{order.aggtotal}</Text>,
+    render: (order) => <Text size="medium">{order.aggtotal.toFixed(3)}</Text>,
   },
   {
     property: "exchanges",
