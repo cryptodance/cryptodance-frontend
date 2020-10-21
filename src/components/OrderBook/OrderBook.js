@@ -35,8 +35,8 @@ function OrderBook(props) {
         data={data}
         step={5}
         primaryKey={false}
-        pin
         sort={sort}
+        size="medium"
       />
     );
   };
